@@ -47,7 +47,6 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://donohoe.io/projects/hn/> by [Michael Donohoe](https://github.com/donohoe)
 - <http://hn.elijames.org/> by [Eli James](https://github.com/ejamesc)
 - <http://www.hn2.co/> by [Zeaun Zarrieff](https://github.com/zupreme)
-- <http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)
 - <http://hntimeline.com/> by Iván Castellanos
 - <http://theajaxpost.appspot.com/theajaxpost> by Michael Kariv
 - <http://rewindhn.com/> by [Dominik Dabrowski](https://github.com/doda)
@@ -80,6 +79,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hnpaper.forge.partlab.io/> by [Régis Gaidot](https://github.com/rgaidot)
 - <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
 - [The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)
+- ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
 - ~~<http://donohoe.io/projects/hn/> by Michael Donohoe~~ broken?
 - ~~<http://hackerfollow.com/> by [Eric Kerr](https://github.com/EricPKerr) and Ben Gilbert~~

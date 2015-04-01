@@ -79,6 +79,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hnpaper.forge.partlab.io/> by [Régis Gaidot](https://github.com/rgaidot)
 - <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
 - [The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)
+- [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
 - ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
 - ~~<http://donohoe.io/projects/hn/> by Michael Donohoe~~ broken?

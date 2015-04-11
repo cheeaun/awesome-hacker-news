@@ -108,6 +108,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hackerwebapp.com/> by [Lim Chee Aun](https://github.com/cheeaun)
 - <http://www.hackernews.im/> by [Poly Miao](https://github.com/polyrabbit/) [source](https://github.com/polyrabbit/hacker-news-digest)
 - <http://hn.reapp.io/> by [Nate Wienert](https://github.com/natew)
+- [Ainomma](http://ainomma.azurewebsites.net/) by [Adam Cooper](https://github.com/adam7)
 
 ### RSS/Atom Feeds
 

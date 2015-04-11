@@ -129,6 +129,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hackerdesignernews.com/> by [José Padilla](https://github.com/jpadilla)
 - <http://www.hackersdaily.com/> by Mike Singer
 - <http://hnnotifications.com/> by Iñigo
+- [HackHires](http://hackhires.com/) by [leandot](https://news.ycombinator.com/user?id=leandot)
 
 ### Social Media
 

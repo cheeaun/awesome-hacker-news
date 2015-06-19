@@ -80,6 +80,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
 - [The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
+- [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
 - ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
 - ~~<http://donohoe.io/projects/hn/> by Michael Donohoe~~ broken?

@@ -205,6 +205,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hnclient.weebly.com/> by [Marcin Kmiec](https://github.com/bonzoq)
 - <https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110> by [Nate Wienert](https://github.com/natew)
 - [Akepa](https://itunes.apple.com/us/app/id973153774?mt=8) by [Allen Ding](https://github.com/allending)
+- [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8) by [Juan Chomali](https://twitter.com/jchomali) and [Néstor Palao](https://twitter.com/nrpalao)
 
 ### Android
 

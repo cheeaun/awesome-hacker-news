@@ -227,6 +227,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Yahnac](https://play.google.com/store/apps/details?id=com.malmstein.yahnac) by [David González](https://github.com/malmstein)
 - [Hackers](https://play.google.com/store/apps/details?id=com.eduardn.hnapp) by [Eduard Neculaesi](https://github.com/eduardn)
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews) by Kasun Gamlath
+- [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 
 ### Windows Phone
 

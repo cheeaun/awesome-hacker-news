@@ -230,6 +230,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews) by Kasun Gamlath
 - [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader) by [pumpkinz](https://github.com/pumpkinz)
+- [Cheddar](https://play.google.com/store/apps/details?id=co.adrianblan.cheddar) by [Adrian Blanco](https://github.com/adrianblp)
 
 ### Windows Phone
 

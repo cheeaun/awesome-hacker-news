@@ -175,6 +175,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://whimsyapps.com/hn/> by [James Dumay](https://github.com/i386)
 - <http://hackerbarapp.com/> by [Mark Rickert](https://github.com/markrickert)
 - <https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12> by [Haris Amin](https://github.com/hamin)
+- <https://hackermenu.io/> by [Jingwen Owen Ou](https://github.com/jingweno)
 
 ### Linux
 

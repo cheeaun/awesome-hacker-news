@@ -135,6 +135,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://www.hackersdaily.com/> by Mike Singer
 - <http://hnnotifications.com/> by Iñigo
 - [HackHires](http://hackhires.com/) by [leandot](https://news.ycombinator.com/user?id=leandot)
+- [HN Replies](http://www.hnreplies.com/) by [Dan Grossman](https://github.com/dangrossman)
 
 ### Social Media
 
@@ -208,6 +209,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110> by [Nate Wienert](https://github.com/natew)
 - [Akepa](https://itunes.apple.com/us/app/id973153774?mt=8) by [Allen Ding](https://github.com/allending)
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8) by [Juan Chomali](https://twitter.com/jchomali) and [Néstor Palao](https://twitter.com/nrpalao)
+- [hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)
 
 ### Android
 

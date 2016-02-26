@@ -251,7 +251,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Print
 
-- <http://hackermonthly.com/> by [Lim Cheng Soon](https://github.com/bearwithclaws)
+- [Hacker Bits](http://hackerbits.com/) by [Ray Li](http://rayli.net) and Maureen Ker
+- [Hacker Monthly](http://hackermonthly.com/) by [Lim Cheng Soon](https://github.com/bearwithclaws)
 
 ### Video
 

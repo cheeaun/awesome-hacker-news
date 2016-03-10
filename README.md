@@ -168,6 +168,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hackbook.club/> by Cyrus Adkisson
 - <https://www.jitbit.com/hacker-news-rank/> by Artiom Dashinsky
 - <https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf> by [Godfrey Chan](https://github.com/chancancode)
+- [Hacker News Real-Time](https://github.com/Bekt/hn-realify) by [Kanat Bekt](https://github.com/Bekt)
 
 ### Mac OS
 

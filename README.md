@@ -285,6 +285,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/> by [Andrew Vos](https://github.com/AndrewVos)
 - <https://github.com/andrewstuart/hn> by [Andrew Stuart](https://github.com/andrewstuart)
 - <https://github.com/mtharrison/hackernews> by [Matt Harrison](https://github.com/mtharrison)
+- [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
 
 ### Alfred workflows
 

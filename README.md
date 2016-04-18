@@ -286,6 +286,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <https://github.com/andrewstuart/hn> by [Andrew Stuart](https://github.com/andrewstuart)
 - <https://github.com/mtharrison/hackernews> by [Matt Harrison](https://github.com/mtharrison)
 - [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
+- [pyhn](https://github.com/socketubs/pyhn) by [Geoffrey Lehée](https://github.com/socketubs)
+- [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
 
 ### Alfred workflows
 

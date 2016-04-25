@@ -170,6 +170,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf> by [Godfrey Chan](https://github.com/chancancode)
 - [Hacker News Real-Time](https://github.com/Bekt/hn-realify) by [Kanat Bekt](https://github.com/Bekt)
 
+### Desktop (Windows, Mac, Linux)
+
+- [HNClient](https://florian.github.io/HNClient/) by [Florian Hartmann](https://github.com/florian)
+
 ### Mac OS
 
 - <http://www.guidefreitas.com/hacker-news-menubar-osx/> by Guilherme Juraszek

@@ -216,6 +216,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Akepa](https://itunes.apple.com/us/app/id973153774?mt=8) by [Allen Ding](https://github.com/allending)
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8) by [Juan Chomali](https://twitter.com/jchomali) and [Néstor Palao](https://twitter.com/nrpalao)
 - [hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)
+- [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759) by [Tim Shim](https://github.com/timshim)
 
 ### Android
 

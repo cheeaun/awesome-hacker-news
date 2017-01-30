@@ -307,6 +307,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - <https://github.com/luisivan/pebble-hn> by [Luis Iván Cuende](https://github.com/luisivan)
 
+### Telegram
+
+- [hacker_news_feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+
 ## Resources
 
 - [hacker-news-groups](https://github.com/antontarasenko/hacker-news-groups) by [Anton Tarasenko](https://github.com/antontarasenko)

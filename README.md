@@ -38,44 +38,44 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - <http://hack.ernews.info/> by [Antonis Karamitros](https://github.com/AntouanK)
 - <http://hckrnews.com/> by [Wayne Larsen](https://github.com/wvl)
-- <http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)
-- <http://hacker-newspaper.gilesb.com/> by Giles Bowkett
-- <http://project.mahemoff.com/hn/> by [Michael Mahemoff](https://github.com/mahemoff)
+~~- <http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)~~
+~~- <http://hacker-newspaper.gilesb.com/> by Giles Bowkett~~
+~~- <http://project.mahemoff.com/hn/> by [Michael Mahemoff](https://github.com/mahemoff)~~
 - <http://www.hnshowcase.com/> by [Shiwei Song](https://github.com/InsipidPoint) and [Moses Nakamura](https://github.com/mosesn)
-- <http://hackerslide.com/> by [Peter Cooper](https://github.com/peterc)
+~~- <http://hackerslide.com/> by [Peter Cooper](https://github.com/peterc)~~
 - <http://hackerbra.in/> by Adrian Wajsbrem
 - <http://www.daemonology.net/hn-daily/> & http://www.daemonology.net/hn-weekly-show/ by Colin Percival
-- <http://donohoe.io/projects/hn/> by [Michael Donohoe](https://github.com/donohoe)
+~~- <http://donohoe.io/projects/hn/> by [Michael Donohoe](https://github.com/donohoe)~~
 - <http://hn.elijames.org/> by [Eli James](https://github.com/ejamesc)
-- <http://www.hn2.co/> by [Zeaun Zarrieff](https://github.com/zupreme)
-- <http://hntimeline.com/> by Iván Castellanos
+~~- <http://www.hn2.co/> by [Zeaun Zarrieff](https://github.com/zupreme)~~
+~~- <http://hntimeline.com/> by Iván Castellanos~~
 - <http://theajaxpost.appspot.com/theajaxpost> by Michael Kariv
-- <http://rewindhn.com/> by [Dominik Dabrowski](https://github.com/doda)
+~~- <http://rewindhn.com/> by [Dominik Dabrowski](https://github.com/doda)~~
 - <http://hnrankings.info/> by [Marc Neuwirth](https://github.com/marcneuwirth)
-- <http://showinghn.com/> by [Ben Wasser](https://github.com/benwasser)
-- <http://showhen.me/> by larvaetron
-- <http://yahnr.com/> by [Dan Goldin](https://github.com/dangoldin)
-- <http://hn.cxhristian.com/> by [cXhristian](https://github.com/cXhristian)
-- <http://www.hnstore.co/> by Raimonds Plavenieks
-- <http://hn-books.com/> by Daniel Markham
+~~- <http://showinghn.com/> by [Ben Wasser](https://github.com/benwasser)~~
+~~- <http://showhen.me/> by larvaetron~~
+~~- <http://yahnr.com/> by [Dan Goldin](https://github.com/dangoldin)~~
+~~- <http://hn.cxhristian.com/> by [cXhristian](https://github.com/cXhristian)~~
+~~- <http://www.hnstore.co/> by Raimonds Plavenieks~~
+~~- <http://hn-books.com/> by Daniel Markham~~
 - <http://hntoplinks.com/> by [Engin Guller](https://github.com/eguller)
-- <http://www.cahella.com/> by [Yodi aditya](https://github.com/yodiaditya)
+~~- <http://www.cahella.com/> by [Yodi aditya](https://github.com/yodiaditya)~~
 - <http://hnhiring.com/> by [Jordi Noguera](https://github.com/jordinl)
 - <http://hnhiring.me/> by [Micah Wylde](https://github.com/mwylde)
 - <http://nizhu.github.io/hn-jobs/> by [nizhu](https://github.com/nizhu)
 - <http://www.fullhn.com/> by [Maurice Svay](https://github.com/mauricesvay)
-- <http://curatedhnhiring.com/> by Michael Chen
+~~- <http://curatedhnhiring.com/> by Michael Chen~~
 - <https://www.hnwatcher.com/>
 - <http://hn-filter.appspot.com/>
-- <http://apps.defsym.me/hntrendz> by [rationalrevolt](https://github.com/rationalrevolt)
-- <http://hn-polls.herokuapp.com/>
+~~- <http://apps.defsym.me/hntrendz> by [rationalrevolt](https://github.com/rationalrevolt)~~
+~~- <http://hn-polls.herokuapp.com/>~~
 - <http://newshack.io/> by [Xcoo, Inc](https://github.com/Inc)
-- <http://www.hind-cite.com/>
+~~- <http://www.hind-cite.com/>~~
 - <http://gaganpreet.github.io/hn-hiring-mapped/src/web/> by [Gaganpreet](https://github.com/gaganpreet)
-- <http://gohinder.com/>
+~~- <http://gohinder.com/>~~
 - <http://www.tiledhn.com/> by [Prakhar Bhandari](https://github.com/pbjr23)
 - <http://insin.github.io/react-hn/> by [Jonny Buchanan](https://github.com/insin)
-- <http://hn-tldr.herokuapp.com/> by [Matt Bachmann](https://github.com/Bachmann1234)
+~~- <http://hn-tldr.herokuapp.com/> by [Matt Bachmann](https://github.com/Bachmann1234)~~
 - <http://reread.io/> by [sorpa'as plat](https://github.com/sorpaas)
 - <http://hnpaper.forge.partlab.io/> by [Régis Gaidot](https://github.com/rgaidot)
 - <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
@@ -125,17 +125,17 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Email
 
 - <http://www.hackernewsletter.com/> by [Kale Davis](https://github.com/kale)
-- <http://hnsummaries.com/> by David Yang
-- <http://www.showhndaily.com/> by Erica Reed
-- <http://www.hnmention.com/> by Teng Siong Ong
-- <http://hnnotify.com/> by The Buzz Media
+~~- <http://hnsummaries.com/> by David Yang~~
+~~- <http://www.showhndaily.com/> by Erica Reed~~
+~~- <http://www.hnmention.com/> by Teng Siong Ong~~
+~~- <http://hnnotify.com/> by The Buzz Media~~
 - <http://hndigest.wordpress.com/> by Julian Corlet
 - <http://www.hndigest.com/>
-- <http://hs.clojurecup.com/> by [Oskar Thorén](https://github.com/oskarth)
-- <http://hackerdesignernews.com/> by [José Padilla](https://github.com/jpadilla)
+~~- <http://hs.clojurecup.com/> by [Oskar Thorén](https://github.com/oskarth)~~
+~~- <http://hackerdesignernews.com/> by [José Padilla](https://github.com/jpadilla)~~
 - <http://www.hackersdaily.com/> by Mike Singer
-- <http://hnnotifications.com/> by Iñigo
-- [HackHires](http://hackhires.com/) by [leandot](https://news.ycombinator.com/user?id=leandot)
+~~- <http://hnnotifications.com/> by Iñigo~~
+~~- [HackHires](http://hackhires.com/) by [leandot](https://news.ycombinator.com/user?id=leandot)~~
 - [HN Replies](http://www.hnreplies.com/) by [Dan Grossman](https://github.com/dangrossman)
 
 ### Social Media

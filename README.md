@@ -35,7 +35,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ## Apps
 
 ### Web
-
+- <https://thehacktimes.com/> by [donstefan](https://github.com/donstefan)
 - <http://hack.ernews.info/> by [Antonis Karamitros](https://github.com/AntouanK)
 - <http://hckrnews.com/> by [Wayne Larsen](https://github.com/wvl)
 - <http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)

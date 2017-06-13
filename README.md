@@ -270,6 +270,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - <http://www.hnpod.com/> by Alex Muir
 - <http://soundgecko.com/station/hacker-news> by [Long Zheng](https://github.com/longzheng)
+- <https://readbyhumans.com/> by [Raman Shalupau](https://github.com/ksaitor)
 
 ### Sublime Text plugins
 

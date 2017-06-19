@@ -29,6 +29,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 	- [Alfred workflows](#alfred-workflows)
 	- [SMS](#sms)
 	- [Smart watch](#smart-watch)
+	- [Chat Bots](#chat-bots)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -308,6 +309,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Smart watch
 
 - <https://github.com/luisivan/pebble-hn> by [Luis Iván Cuende](https://github.com/luisivan)
+
+### Chat bots
+
+- [Learnerd](http://learnerd.co/) by [Upright Media](https://upright.media/)
 
 ### Telegram
 

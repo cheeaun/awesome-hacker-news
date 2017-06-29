@@ -85,6 +85,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
 - [Hackjob.io](https://hackjobio.herokuapp.com/) by [David Titarenco](https://github.com/dvx)
 - [See what Hacker News looked like on the day you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
+- [Hacker Hunt](https://hackerhunt.co/)
 - ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
 - ~~<http://donohoe.io/projects/hn/> by Michael Donohoe~~ broken?

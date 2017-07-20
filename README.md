@@ -298,6 +298,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
 - [pyhn](https://github.com/socketubs/pyhn) by [Geoffrey Lehée](https://github.com/socketubs)
 - [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
+- [HackerFeed](https://github.com/pratyushprakash/HackerFeed)
 
 ### Alfred workflows
 

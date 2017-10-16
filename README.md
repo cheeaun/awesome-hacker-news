@@ -30,6 +30,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 	- [SMS](#sms)
 	- [Smart watch](#smart-watch)
 	- [Chat Bots](#chat-bots)
+	- [Slack](#slack)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -322,6 +323,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Telegram
 
 - [hacker_news_feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+
+### Slack
+
+- [HN Bot](https://hnbot.co/) by [Huan Huang](https://news.ycombinator.com/user?id=huan9huan)
 
 ## Resources
 

@@ -173,6 +173,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <https://www.jitbit.com/hacker-news-rank/> by Artiom Dashinsky
 - <https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf> by [Godfrey Chan](https://github.com/chancancode)
 - [Hacker News Real-Time](https://github.com/Bekt/hn-realify) by [Kanat Bekt](https://github.com/Bekt)
+- [Hacker News Filter](https://chrome.google.com/webstore/detail/hacker-news-filter/agohmjkdphojdlhkjejgmoicdpnlajam) by [Huan Huang](https://hackernewsfilter.com/)
 
 ### Desktop (Windows, Mac, Linux)
 

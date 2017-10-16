@@ -30,6 +30,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 	- [SMS](#sms)
 	- [Smart watch](#smart-watch)
 	- [Chat Bots](#chat-bots)
+	- [Slack](#slack)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -173,6 +174,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <https://www.jitbit.com/hacker-news-rank/> by Artiom Dashinsky
 - <https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf> by [Godfrey Chan](https://github.com/chancancode)
 - [Hacker News Real-Time](https://github.com/Bekt/hn-realify) by [Kanat Bekt](https://github.com/Bekt)
+- [Hacker News Filter](https://chrome.google.com/webstore/detail/hacker-news-filter/agohmjkdphojdlhkjejgmoicdpnlajam) by [Huan Huang](https://hackernewsfilter.com/)
 
 ### Desktop (Windows, Mac, Linux)
 
@@ -321,6 +323,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Telegram
 
 - [hacker_news_feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+
+### Slack
+
+- [HN Bot](https://hnbot.co/) by [Huan Huang](https://news.ycombinator.com/user?id=huan9huan)
 
 ## Resources
 

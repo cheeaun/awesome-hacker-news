@@ -330,7 +330,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Facebook Messenger
 
-- [Day Day Code](https://www.messenger.com/t/daydaycodedev) by [Teddy Lun](https://github.com/teddylun)
+- [HN Bot](https://www.messenger.com/t/daydaycodedev) by [Teddy Lun](https://github.com/teddylun)
 
 ## Resources
 

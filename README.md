@@ -328,6 +328,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [HN Bot](https://hnbot.co/) by [Huan Huang](https://news.ycombinator.com/user?id=huan9huan)
 
+### Facebook Messenger
+
+- [Day Day Code](https://www.messenger.com/t/daydaycodedev) by [Teddy Lun](https://github.com/teddylun)
+
 ## Resources
 
 - [hacker-news-groups](https://github.com/antontarasenko/hacker-news-groups) by [Anton Tarasenko](https://github.com/antontarasenko)

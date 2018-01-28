@@ -82,7 +82,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hnpaper.forge.partlab.io/> by [Régis Gaidot](https://github.com/rgaidot)
 - <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
 - [The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)
-- [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
+- [serializer](http://serializer.charlieegan3.com) by [Charlie Egan](https://github.com/charlieegan3)
 - [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
 - [Hackjob.io](https://hackjobio.herokuapp.com/) by [David Titarenco](https://github.com/dvx)
 - [See what Hacker News looked like on the day you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)

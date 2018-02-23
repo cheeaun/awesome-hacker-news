@@ -88,6 +88,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [See what Hacker News looked like on the day you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
 - [Hacker Hunt](https://hackerhunt.co/)
 - [HackerNews grid](http://hackernewsgrid.com/)
+- [The Hacker Classics](http://jsomers.net/hn/)
 - [TopHN](https://tophn.org/)
 - ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
@@ -336,6 +337,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ## Resources
 
 - [hacker-news-groups](https://github.com/antontarasenko/hacker-news-groups) by [Anton Tarasenko](https://github.com/antontarasenko)
+- [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 
 ## Contributing
 

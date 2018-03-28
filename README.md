@@ -90,6 +90,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HackerNews grid](http://hackernewsgrid.com/)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [TopHN](https://tophn.org/)
+- [HN Domain Leaderboard](https://hnleaderboard.com/)
 - ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
 - ~~<http://donohoe.io/projects/hn/> by Michael Donohoe~~ broken?

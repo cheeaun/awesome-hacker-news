@@ -38,6 +38,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
+- <https://www.heikers.com/> by [The Heikers Team](https://github.com/heikers)
 - <http://hack.ernews.info/> by [Antonis Karamitros](https://github.com/AntouanK)
 - <http://hckrnews.com/> by [Wayne Larsen](https://github.com/wvl)
 - ~~<http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)~~

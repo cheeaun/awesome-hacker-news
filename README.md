@@ -39,58 +39,60 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Web
 
 - <https://www.heikers.com/> by [The Heikers Team](https://github.com/heikers)
-- <http://hack.ernews.info/> ~~by~~ [Antonis Karamitros](https://github.com/AntouanK)
+- <http://hack.ernews.info/> by [Antonis Karamitros](https://github.com/AntouanK)
 - <http://hckrnews.com/> by [Wayne Larsen](https://github.com/wvl)
-- <http://www.daemonology.net/hn-daily/> & http://www.daemonology.net/hn-weekly-show/ by Colin Percival
-- <http://hn.elijames.org/> by [Eli James](https://github.com/ejamesc)
-- <http://theajaxpost.appspot.com/theajaxpost> by Michael Kariv
-- <http://hnrankings.info/> by [Marc Neuwirth](https://github.com/marcneuwirth)
-- <http://hnhiring.com/> by [Jordi Noguera](https://github.com/jordinl)
-- <http://hnhiring.me/> by [Micah Wylde](https://github.com/mwylde)
-- <http://www.fullhn.com/> by [Maurice Svay](https://github.com/mauricesvay)
-- <https://www.hnwatcher.com/>
-- <http://hn-filter.appspot.com/>
-- <http://newshack.io/> by [Xcoo, Inc](https://github.com/Inc)
-- <http://gaganpreet.github.io/hn-hiring-mapped/src/web/> by [Gaganpreet](https://github.com/gaganpreet)
-- <http://insin.github.io/react-hn/> by [Jonny Buchanan](https://github.com/insin)
-- <http://hnpaper.forge.partlab.io/> by [Régis Gaidot](https://github.com/rgaidot)
-- <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
-- [Clean Hacker News](https://adriel.co.nz/news/) by [Adriel Kloppenburg](https://github.com/adriel)
-- [serializer](http://serializer.charlieegan3.com) by [Charlie Egan](https://github.com/charlieegan3)
-- [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
-- [Hackjob.io](https://hackjobio.herokuapp.com/) by [David Titarenco](https://github.com/dvx)
-- [See what Hacker News looked like on the day you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
-- [The Hacker Classics](http://jsomers.net/hn/)
-- [TopHN](https://tophn.org/)
-- [HN Domain Leaderboard](https://hnleaderboard.com/)
-- [HN Ratio](https://paradite.github.io/hn-ratio/) by [paradite](https://github.com/paradite)
 - ~~<http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)~~
 - ~~<http://hacker-newspaper.gilesb.com/> by Giles Bowkett~~
 - ~~<http://project.mahemoff.com/hn/> by [Michael Mahemoff](https://github.com/mahemoff)~~
-- ~~<http://www.hnshowcase.com/> by [Shiwei Song](https://github.com/InsipidPoint) and [Moses Nakamura](https://github.com/mosesn)~~
+- <http://www.hnshowcase.com/> by [Shiwei Song](https://github.com/InsipidPoint) and [Moses Nakamura](https://github.com/mosesn)
 - ~~<http://hackerslide.com/> by [Peter Cooper](https://github.com/peterc)~~
-- ~~<http://hackerbra.in/> by Adrian Wajsbrem~~
+- <http://hackerbra.in/> by Adrian Wajsbrem
+- <http://www.daemonology.net/hn-daily/> & http://www.daemonology.net/hn-weekly-show/ by Colin Percival
 - ~~<http://donohoe.io/projects/hn/> by [Michael Donohoe](https://github.com/donohoe)~~
+- <http://hn.elijames.org/> by [Eli James](https://github.com/ejamesc)
 - ~~<http://www.hn2.co/> by [Zeaun Zarrieff](https://github.com/zupreme)~~
 - ~~<http://hntimeline.com/> by Iván Castellanos~~
+- <http://theajaxpost.appspot.com/theajaxpost> by Michael Kariv
 - ~~<http://rewindhn.com/> by [Dominik Dabrowski](https://github.com/doda)~~
+- <http://hnrankings.info/> by [Marc Neuwirth](https://github.com/marcneuwirth)
 - ~~<http://showinghn.com/> by [Ben Wasser](https://github.com/benwasser)~~
 - ~~<http://showhen.me/> by larvaetron~~
 - ~~<http://yahnr.com/> by [Dan Goldin](https://github.com/dangoldin)~~
 - ~~<http://hn.cxhristian.com/> by [cXhristian](https://github.com/cXhristian)~~
 - ~~<http://www.hnstore.co/> by Raimonds Plavenieks~~
 - ~~<http://hn-books.com/> by Daniel Markham~~
-- ~~<http://hntoplinks.com/> by [Engin Guller](https://github.com/eguller)~~
+- <http://hntoplinks.com/> by [Engin Guller](https://github.com/eguller)
 - ~~<http://www.cahella.com/> by [Yodi aditya](https://github.com/yodiaditya)~~
-- ~~<http://nizhu.github.io/hn-jobs/> by [nizhu](https://github.com/nizhu)~~
+- <http://hnhiring.com/> by [Jordi Noguera](https://github.com/jordinl)
+- <http://hnhiring.me/> by [Micah Wylde](https://github.com/mwylde)
+- <http://nizhu.github.io/hn-jobs/> by [nizhu](https://github.com/nizhu)
+- <http://www.fullhn.com/> by [Maurice Svay](https://github.com/mauricesvay)
 - ~~<http://curatedhnhiring.com/> by Michael Chen~~
+- <https://www.hnwatcher.com/>
+- <http://hn-filter.appspot.com/>
 - ~~<http://apps.defsym.me/hntrendz> by [rationalrevolt](https://github.com/rationalrevolt)~~
 - ~~<http://hn-polls.herokuapp.com/>~~
+- <http://newshack.io/> by [Xcoo, Inc](https://github.com/Inc)
 - ~~<http://www.hind-cite.com/>~~
+- <http://gaganpreet.github.io/hn-hiring-mapped/src/web/> by [Gaganpreet](https://github.com/gaganpreet)
 - ~~<http://gohinder.com/>~~
-- ~~<http://www.tiledhn.com/> by [Prakhar Bhandari](https://github.com/pbjr23)~~
+- <http://www.tiledhn.com/> by [Prakhar Bhandari](https://github.com/pbjr23)
+- <http://insin.github.io/react-hn/> by [Jonny Buchanan](https://github.com/insin)
 - ~~<http://hn-tldr.herokuapp.com/> by [Matt Bachmann](https://github.com/Bachmann1234)~~
-- ~~<http://reread.io/> by [sorpa'as plat](https://github.com/sorpaas)~~
+- <http://reread.io/> by [sorpa'as plat](https://github.com/sorpaas)
+- <http://hnpaper.forge.partlab.io/> by [Régis Gaidot](https://github.com/rgaidot)
+- <http://chancancode.github.io/hn-reader> by [Godfrey Chan](https://github.com/chancancode)
+- [The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)
+- [serializer](http://serializer.charlieegan3.com) by [Charlie Egan](https://github.com/charlieegan3)
+- [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
+- [Hackjob.io](https://hackjobio.herokuapp.com/) by [David Titarenco](https://github.com/dvx)
+- [See what Hacker News looked like on the day you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
+- [Hacker Hunt](https://hackerhunt.co/)
+- [HackerNews grid](http://hackernewsgrid.com/)
+- [The Hacker Classics](http://jsomers.net/hn/)
+- [TopHN](https://tophn.org/)
+- [HN Domain Leaderboard](https://hnleaderboard.com/)
+- [HN Ratio](https://paradite.github.io/hn-ratio/) by [paradite](https://github.com/paradite)
 - ~~<http://hntop100.com/> by [Rob McCullough](https://github.com/robmccullough)~~
 - ~~<https://hnjobs.org/> by [monological](https://github.com/monological)~~
 - ~~<http://donohoe.io/projects/hn/> by Michael Donohoe~~ broken?
@@ -103,55 +105,54 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - ~~<http://hnterest.com/> by Bryan Goines~~ down?
 - ~~<http://lab.varun.io/hn_all_time_top_links/> by Varun~~
 - ~~<http://www.hneasy.com/>~~~
-- ~~[The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)~~
-- ~~[Hacker Hunt](https://hackerhunt.co/)~~
-- ~~[HackerNews grid](http://hackernewsgrid.com/)~~
 
 ### Mobile Web
 
+- <http://hn.meteor.com/> by [Zach Denton](https://github.com/zacharydenton)
 - <http://ihackernews.com/> by Ronnie Roller
-- <http://hn.premii.com/> by [Dharmesh Patel](https://github.com/premii)
-- <http://hackerwebapp.com/> by [Lim Chee Aun](https://github.com/cheeaun)
-- <http://www.hackernews.im/> by [Poly Miao](https://github.com/polyrabbit/) [source](https://github.com/polyrabbit/hacker-news-digest)
-- [Hacker News Mobile](http://hackernewsmobile.com/) ([GitHub](https://github.com/jsdf/hacker-news-mobile)) by [James Friend](https://github.com/jsdf)
-- ~~<http://hn.meteor.com/> by [Zach Denton](https://github.com/zacharydenton)~~
 - ~~<http://hn.gethifi.com/> by [Joel Sutherland](https://github.com/JoelSutherland) and [Kris Jordan](https://github.com/KrisJordan)~~
-- ~~<http://www.icombinator.net/> by Benny Wong~~
+- <http://www.icombinator.net/> by Benny Wong
 - ~~<http://smus.com/x/hackernews/> by Boris Smus~~ 403 Forbidden
 - ~~<http://hn.arcticmill.com/> by Arcticmill~~ Application Error
-- ~~<http://hn.linssen.me/> by [Wil Linssen](https://github.com/linssen)~~
-- ~~<http://hn.dinopost.com/>~~
-- ~~<http://hnmobile.herokuapp.com/> by [mheguevara](https://github.com/mheguevara)~~
-- ~~<http://hn.reapp.io/> by [Nate Wienert](https://github.com/natew)~~
-- ~~[Ainomma](http://ainomma.azurewebsites.net/) by [Adam Cooper](https://github.com/adam7)~~
+- <http://hn.premii.com/> by [Dharmesh Patel](https://github.com/premii)
+- <http://hn.linssen.me/> by [Wil Linssen](https://github.com/linssen)
+- <http://hn.dinopost.com/>
+- <http://hnmobile.herokuapp.com/> by [mheguevara](https://github.com/mheguevara)
+- <http://hackerwebapp.com/> by [Lim Chee Aun](https://github.com/cheeaun)
+- <http://www.hackernews.im/> by [Poly Miao](https://github.com/polyrabbit/) [source](https://github.com/polyrabbit/hacker-news-digest)
+- <http://hn.reapp.io/> by [Nate Wienert](https://github.com/natew)
+- [Ainomma](http://ainomma.azurewebsites.net/) by [Adam Cooper](https://github.com/adam7)
+- [Hacker News Mobile](http://hackernewsmobile.com/) ([GitHub](https://github.com/jsdf/hacker-news-mobile)) by [James Friend](https://github.com/jsdf)
 
 ### RSS/Atom Feeds
 
 - <http://hnapp.com/> by [Nikita Gazarov](https://github.com/raquo)
+- <http://ashleyw.co.uk/project/hacker-news-feeds> by [Ashley Williams](https://github.com/ashleyw)
+- <http://feedhint.com/> by [Raphael Pereira](https://github.com/raphaelpereira)
 - <https://edavis.github.io/hnrss/> by [Eric Davis](https://github.com/edavis)
-- ~~<http://ashleyw.co.uk/project/hacker-news-feeds> by [Ashley Williams](https://github.com/ashleyw)~~
-- ~~<http://feedhint.com/> by [Raphael Pereira](https://github.com/raphaelpereira)~~
 
 ### Email
 
 - <http://www.hackernewsletter.com/> by [Kale Davis](https://github.com/kale)
-- <http://hndigest.wordpress.com/> by Julian Corlet
-- <http://www.hndigest.com/>
-- <http://www.hackersdaily.com/> by Mike Singer
-- [HN Replies](http://www.hnreplies.com/) by [Dan Grossman](https://github.com/dangrossman)
 - ~~<http://hnsummaries.com/> by David Yang~~
 - ~~<http://www.showhndaily.com/> by Erica Reed~~
 - ~~<http://www.hnmention.com/> by Teng Siong Ong~~
 - ~~<http://hnnotify.com/> by The Buzz Media~~
+- <http://hndigest.wordpress.com/> by Julian Corlet
+- <http://www.hndigest.com/>
 - ~~<http://hs.clojurecup.com/> by [Oskar Thorén](https://github.com/oskarth)~~
 - ~~<http://hackerdesignernews.com/> by [José Padilla](https://github.com/jpadilla)~~
+- <http://www.hackersdaily.com/> by Mike Singer
 - ~~<http://hnnotifications.com/> by Iñigo~~
 - ~~[HackHires](http://hackhires.com/) by [leandot](https://news.ycombinator.com/user?id=leandot)~~
+- [HN Replies](http://www.hnreplies.com/) by [Dan Grossman](https://github.com/dangrossman)
 
 ### Social Media
 
 - <https://twitter.com/newsycombinator>
 - <https://twitter.com/hackernewsbot>
+- <https://twitter.com/hnfirehose>
+- <https://twitter.com/hackerlinks>
 - <https://twitter.com/newsyc20>
 - <https://twitter.com/newsyc50>
 - <https://twitter.com/newsyc100>
@@ -159,9 +160,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <https://twitter.com/newsyc200>
 - <https://twitter.com/newsyc250>
 - <https://twitter.com/JustShowHN>
-- ~~<https://twitter.com/hnfirehose>~~
-- ~~<https://twitter.com/hackerlinks>~~
-- ~~<https://twitter.com/HackerNewsYCBot>~~
+- <https://twitter.com/HackerNewsYCBot>
 - ^hackernewsrss.campr.me (a [Tent](https://tent.io) account, no linkable web representation)
 
 ### Browser Extensions
@@ -188,13 +187,13 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Mac OS
 
+- <http://www.guidefreitas.com/hacker-news-menubar-osx/> by Guilherme Juraszek
+- <http://www.hackyapp.com/> by [Elias Klughammer](https://github.com/eliaskg)
+- <http://whimsyapps.com/hn/> by [James Dumay](https://github.com/i386)
 - <http://hackerbarapp.com/> by [Mark Rickert](https://github.com/markrickert)
 - <https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12> by [Haris Amin](https://github.com/hamin)
 - <https://hackermenu.io/> by [Jingwen Owen Ou](https://github.com/jingweno)
 - [touchHNews](https://github.com/mrmekon/toucHNews) - Hacker News (YCombinator) news feed for the Mac Touch Bar
-- ~~<http://www.guidefreitas.com/hacker-news-menubar-osx/> by Guilherme Juraszek~~
-- ~~<http://www.hackyapp.com/> by [Elias Klughammer](https://github.com/eliaskg)~~
-- ~~<http://whimsyapps.com/hn/> by [James Dumay](https://github.com/i386)~~
 
 ### Linux
 
@@ -203,15 +202,26 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### iOS
 
 - <https://github.com/guidefreitas/iHNews> by Guilherme Juraszek
+- <http://michaelgrinich.com/hackernews/> by [Michael Grinich](https://github.com/grinich)
+- <http://newsyc.me/> by [Grant Paul](https://github.com/grp)
+- <http://www.hnreaderapp.com/> by [Ryan Scherf](https://github.com/rscherf) and [Steve Finkelstein](https://github.com/stevef)
 - <http://blog.libinpan.com/hacker-news/> by [Libin Pan](https://github.com/libin)
+- <http://hackernewspaper.com/> by [Sam McDonald](https://github.com/sammcd)
+- <http://www.hckrne.ws/> HckrNe.ws by [Bruce Cheek](https://github.com/bcheek)
 - <http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8> Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
 - <https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8> Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
+- <http://subvertapps.com/HN/> by Ben Gordon
+- <http://weiranzhang.com/hackers> by [Weiran Zhang](https://github.com/weiran)
+- <http://42mini.co/minihack> by Cai GuangShao
+- <http://shadowdevelopments.co.uk/HN/> by [Daniel Tomlinson](https://github.com/DanielTomlinson)
+- <http://hodgesmr.github.io/CoderNews/> by [Matt Hodges](https://github.com/hodgesmr)
 - <https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8> Hack News Top Stories by Andrew Jones
 - <https://itunes.apple.com/app/hacker-news-padreader/id428331410?mt=8> by [Ben Shive](https://github.com/BenSS)
 - <https://itunes.apple.com/us/app/pivit/id705715915?mt=8> by [Alaric Cole](https://github.com/alariccole)
 - <http://brushedtype.co/apps/hack-later/> by [Mert Dumenci](https://github.com/mertdumenci)
 - <https://itunes.apple.com/us/app/hacker-news-yc/id713733435> - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)
 - <http://dimillian.github.io/SwiftHN/> by [Thomas Ricouard](https://github.com/Dimillian)
+- <http://www.lollicode.com/hn-cards/>
 - <http://hnclient.weebly.com/> by [Marcin Kmiec](https://github.com/bonzoq)
 - <https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110> by [Nate Wienert](https://github.com/natew)
 - [Akepa](https://itunes.apple.com/us/app/id973153774?mt=8) by [Allen Ding](https://github.com/allending)
@@ -219,48 +229,36 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759) by [Tim Shim](https://github.com/timshim)
 - [Hacker Wave](http://hackerwave.com/)
-- ~~<http://www.lollicode.com/hn-cards/>~~
-- ~~<http://subvertapps.com/HN/> by Ben Gordon~~
-- ~~<http://weiranzhang.com/hackers> by [Weiran Zhang](https://github.com/weiran)~~
-- ~~<http://42mini.co/minihack> by Cai GuangShao~~
-- ~~<http://shadowdevelopments.co.uk/HN/> by [Daniel Tomlinson](https://github.com/DanielTomlinson)~~
-- ~~<http://hodgesmr.github.io/CoderNews/> by [Matt Hodges](https://github.com/hodgesmr)~~
-- ~~<http://hackernewspaper.com/> by [Sam McDonald](https://github.com/sammcd)~~
-- ~~<http://www.hckrne.ws/> HckrNe.ws by [Bruce Cheek](https://github.com/bcheek)~~
-- ~~<http://newsyc.me/> by [Grant Paul](https://github.com/grp)~~
-- ~~<http://www.hnreaderapp.com/> by [Ryan Scherf](https://github.com/rscherf) and [Steve Finkelstein](https://github.com/stevef)~~
-- ~~<http://michaelgrinich.com/hackernews/> by [Michael Grinich](https://github.com/grinich)~~
 
 ### Android
 
+- <https://play.google.com/store/apps/details?id=com.rickylaishram.hackernews&hl=en> by [Ricky Laishram](https://github.com/rickylaishram)
+- <http://gluegadget.com/hndroid/> by [Amir Mohammad Saied](https://github.com/amir)
+- <http://app.net/hackernews> by [Chad Etzel](https://github.com/jazzychad)
 - <https://github.com/manmal/hn-android/> by [Manuel Maly](https://github.com/manmal)
+- <https://play.google.com/store/apps/details?id=com.evans.hackernews> by Mike Evans
 - <https://github.com/bishopmatthew/hackernews> by [Matthew Bishop](https://github.com/bishopmatthew)
+- <https://play.google.com/store/apps/details?id=vladocar.hn> by [Vladimir Carrer](https://github.com/vladocar)
+- <https://play.google.com/store/apps/details?id=com.sojustudios.hackernews> Hacker News Top Stories by Andrew Jones
+- <https://play.google.com/store/apps/details?id=me.oguzb.hnreader> by [Oğuz Bilgener](https://github.com/oguzbilgener)
+- <https://play.google.com/store/apps/details?id=com.premii.hn> - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)
+- <http://dwak.io/holo_hacker_news/> by [Anjan Karanam](https://github.com/anjanbk) and [Vishnu Rajeevan](https://github.com/burntcookie90)
+- <https://play.google.com/store/apps/details?id=com.mathieuhendey.hackernews> by [Mathieu Hendey](https://github.com/mathieuhendey)
+- <https://play.google.com/store/apps/details?id=com.fuzzingtheweb.hnreader> by [Javi Manzano](https://github.com/jgasteiz)
+- <https://play.google.com/store/apps/details?id=au.com.timmutton.yarn> by [Tim Mutton](https://github.com/timmutton)
 - <https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic> by [Ha Duy Trung](https://github.com/hidroh)
+- [Yahnac](https://play.google.com/store/apps/details?id=com.malmstein.yahnac) by [David González](https://github.com/malmstein)
+- [Hackers](https://play.google.com/store/apps/details?id=com.eduardn.hnapp) by [Eduard Neculaesi](https://github.com/eduardn)
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews) by Kasun Gamlath
 - [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader) by [pumpkinz](https://github.com/pumpkinz)
-- ~~[Cheddar](https://play.google.com/store/apps/details?id=co.adrianblan.cheddar) by [Adrian Blanco](https://github.com/adrianblp)~~
-- ~~[Yahnac](https://play.google.com/store/apps/details?id=com.malmstein.yahnac) by [David González](https://github.com/malmstein)~~
-- ~~[Hackers](https://play.google.com/store/apps/details?id=com.eduardn.hnapp) by [Eduard Neculaesi](https://github.com/eduardn)~~
-- ~~<https://play.google.com/store/apps/details?id=com.rickylaishram.hackernews&hl=en> by [Ricky Laishram](https://github.com/rickylaishram)~~
-- ~~<http://gluegadget.com/hndroid/> by [Amir Mohammad Saied](https://github.com/amir)~~
-- ~~<http://app.net/hackernews> by [Chad Etzel](https://github.com/jazzychad)~~
-- ~~<https://play.google.com/store/apps/details?id=com.evans.hackernews> by Mike Evans~~
-- ~~<https://play.google.com/store/apps/details?id=vladocar.hn> by [Vladimir Carrer](https://github.com/vladocar)~~
-- ~~<https://play.google.com/store/apps/details?id=com.sojustudios.hackernews> Hacker News Top Stories by Andrew Jones~~
-- ~~<https://play.google.com/store/apps/details?id=me.oguzb.hnreader> by [Oğuz Bilgener](https://github.com/oguzbilgener)~~
-- ~~<https://play.google.com/store/apps/details?id=com.premii.hn> - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)~~
-- ~~<http://dwak.io/holo_hacker_news/> by [Anjan Karanam](https://github.com/anjanbk) and [Vishnu Rajeevan](https://github.com/burntcookie90)~~
-- ~~<https://play.google.com/store/apps/details?id=com.mathieuhendey.hackernews> by [Mathieu Hendey](https://github.com/mathieuhendey)~~
-- ~~<https://play.google.com/store/apps/details?id=com.fuzzingtheweb.hnreader> by [Javi Manzano](https://github.com/jgasteiz)~~
-- ~~<https://play.google.com/store/apps/details?id=au.com.timmutton.yarn> by [Tim Mutton](https://github.com/timmutton)~~
+- [Cheddar](https://play.google.com/store/apps/details?id=co.adrianblan.cheddar) by [Adrian Blanco](https://github.com/adrianblp)
 
 ### Windows Phone
 
+- <http://www.windowsphone.com/en-US/apps/a5275a3f-6611-48f6-bd62-7382eda4c028> by [Miguel Rochefort](https://github.com/miguelrochefort)
 - <http://www.windowsphone.com/en-us/store/app/hacker-news/57a88f24-7dce-47cb-b322-33a1a4178533> by [Matt McCormick](https://github.com/mbmccormick) [source](https://github.com/mbmccormick/HackerNews)
 - <http://www.windowsphone.com/en-gb/store/app/hacky-news/5e5a14a9-d08b-45ee-a5c2-b44713868af7> by [Livven](https://github.com/Livven)
-- ~~<http://www.windowsphone.com/en-US/apps/a5275a3f-6611-48f6-bd62-7382eda4c028> by [Miguel Rochefort](https://github.com/miguelrochefort)~~
-- 
 
 ### BlackBerry
 
@@ -268,31 +266,31 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Kindle
 
-- ~~<http://toniobox.dreamhosters.com/hnkindle/> by Antonio Sibal~~
+- <http://toniobox.dreamhosters.com/hnkindle/> by Antonio Sibal
 
 ### Print
 
 - [Hacker Bits](http://hackerbits.com/) by [Ray Li](http://rayli.net) and Maureen Ker
-- ~~[Hacker Monthly](http://hackermonthly.com/) by [Lim Cheng Soon](https://github.com/bearwithclaws)~~
+- [Hacker Monthly](http://hackermonthly.com/) by [Lim Cheng Soon](https://github.com/bearwithclaws)
 
 ### Video
 
-- ~~<http://hackernation.tv/>~~
+- <http://hackernation.tv/>
 
 ### Audio
 
+- <http://www.hnpod.com/> by Alex Muir
+- <http://soundgecko.com/station/hacker-news> by [Long Zheng](https://github.com/longzheng)
 - <https://readbyhumans.com/> by [Raman Shalupau](https://github.com/ksaitor)
-- ~~<http://www.hnpod.com/> by Alex Muir~~
-- ~~<http://soundgecko.com/station/hacker-news> by [Long Zheng](https://github.com/longzheng)~~
 
 ### Sublime Text plugins
 
 - <https://github.com/Dimillian/Sublime-Hacker-News-Reader> by [Thomas Ricouard](https://github.com/Dimillian)
-- ~~<https://github.com/timdavies/HackerNews-SublimeTextPlugin> by [Tim Davies](https://github.com/timdavies)~~
+- <https://github.com/timdavies/HackerNews-SublimeTextPlugin> by [Tim Davies](https://github.com/timdavies)
 
 ### Vim
 
-- ~~<https://github.com/ryanss/vim-hackernews> by [ryanss](https://github.com/ryanss)~~
+- <https://github.com/ryanss/vim-hackernews> by [ryanss](https://github.com/ryanss)
 
 ### Emacs
 
@@ -317,7 +315,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### SMS
 
-- ~~<http://hnalerts.com/> by [Rob Fitzpatrick](https://github.com/robfitz)~~
+- <http://hnalerts.com/> by [Rob Fitzpatrick](https://github.com/robfitz)
 
 ### Smart watch
 
@@ -325,7 +323,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Chat bots
 
-- ~~[Learnerd](http://learnerd.co/) by [Upright Media](https://upright.media/)~~
+- [Learnerd](http://learnerd.co/) by [Upright Media](https://upright.media/)
 
 ### Telegram
 

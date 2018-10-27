@@ -300,20 +300,20 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Command Line
 
-- <https://github.com/headcanon/node-hn> by [Nick Donohue](https://github.com/headcanon)
-- <https://github.com/gedex/gohn> by [Akeda Bagus](https://github.com/gedex)
-- <https://github.com/pkrumins/hacker-top> by [Peteris Krumins](https://github.com/pkrumins)
-- <http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/> by [Andrew Vos](https://github.com/AndrewVos)
-- <https://github.com/andrewstuart/hn> by [Andrew Stuart](https://github.com/andrewstuart)
-- <https://github.com/mtharrison/hackernews> by [Matt Harrison](https://github.com/mtharrison)
-- [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
-- [pyhn](https://github.com/socketubs/pyhn) by [Geoffrey Lehée](https://github.com/socketubs)
-- [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
+- [Node HackerNews](https://github.com/headcanon/node-hn) by [Nick Donohue](https://github.com/headcanon)
+- [Gohn](https://github.com/gedex/gohn) by [Akeda Bagus](https://github.com/gedex)
+- [Hacker Top](https://github.com/pkrumins/hacker-top) by [Peteris Krumins](https://github.com/pkrumins)
+- [Hacker News in the Terminal](http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/) by [Andrew Vos](https://github.com/AndrewVos)
+- [Hacker News ncurses CLI](https://github.com/andrewstuart/hn) by [Andrew Stuart](https://github.com/andrewstuart)
+- [Hackernews CLI](https://github.com/mtharrison/hackernews) by [Matt Harrison](https://github.com/mtharrison)
+- [Haxor-News](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
+- [Pyhn](https://github.com/socketubs/pyhn) by [Geoffrey Lehée](https://github.com/socketubs)
+- [GO-HN](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
 - [HackerFeed](https://github.com/pratyushprakash/HackerFeed)
 
 ### Alfred workflows
 
-- <https://github.com/loris/alfred-hackernews-workflow> by [Loris Guignard](https://github.com/loris)
+- [Hacker News Workflow](https://github.com/loris/alfred-hackernews-workflow) by [Loris Guignard](https://github.com/loris)
 
 ### SMS
 
@@ -321,7 +321,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Smart watch
 
-- <https://github.com/luisivan/pebble-hn> by [Luis Iván Cuende](https://github.com/luisivan)
+- [Hacker News for Pebble](<https://github.com/luisivan/pebble-hn>) by [Luis Iván Cuende](https://github.com/luisivan)
 
 ### Chat bots
 
@@ -329,7 +329,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Telegram
 
-- [hacker_news_feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+- [Hacker News Feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
 
 ### Slack
 

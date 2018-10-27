@@ -188,9 +188,9 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Mac OS
 
-- <http://hackerbarapp.com/> by [Mark Rickert](https://github.com/markrickert)
-- <https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12> by [Haris Amin](https://github.com/hamin)
-- <https://hackermenu.io/> by [Jingwen Owen Ou](https://github.com/jingweno)
+- [Hacker Bar](http://hackerbarapp.com/) by [Mark Rickert](https://github.com/markrickert)
+- [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12) by [Haris Amin](https://github.com/hamin)
+- [Hacker Menu](https://hackermenu.io/) by [Jingwen Owen Ou](https://github.com/jingweno)
 - [touchHNews](https://github.com/mrmekon/toucHNews) - Hacker News (YCombinator) news feed for the Mac Touch Bar
 - ~~<http://www.guidefreitas.com/hacker-news-menubar-osx/> by Guilherme Juraszek~~
 - ~~<http://www.hackyapp.com/> by [Elias Klughammer](https://github.com/eliaskg)~~
@@ -198,7 +198,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Linux
 
-- <https://captnemo.in/hackertray/> by [Abhay Rana](https://github.com/captn3m0)
+- [HackerTray](https://captnemo.in/hackertray/) by [Abhay Rana](https://github.com/captn3m0)
 
 ### iOS
 

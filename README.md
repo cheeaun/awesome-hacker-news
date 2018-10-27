@@ -166,21 +166,21 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Browser Extensions
 
-- <https://chrome.google.com/webstore/detail/geancnifhbkbjijfkcjjdnfemppmcjmk> by [Adam Albrecht](https://github.com/adamalbrecht)
-- <https://chrome.google.com/webstore/detail/plldnnbdlbgbiknjebohmlggcbicghlj> by Tim Dupree
-- <https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid> by [Yiannis Volos ](https://github.com/volos)
-- <https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf> What HN says by [Flávio Juvenal](https://github.com/fjsj)
-- <https://chrome.google.com/webstore/detail/hacker-news-hotkeys/nkeegljkkibjiiaehmjfncdbkbbgdojb> by [David Trejo](https://github.com/DTrejo)
+- [Hacker News extension](https://chrome.google.com/webstore/detail/geancnifhbkbjijfkcjjdnfemppmcjmk) by [Adam Albrecht](https://github.com/adamalbrecht)
+- [Hacker News OnePage](https://chrome.google.com/webstore/detail/plldnnbdlbgbiknjebohmlggcbicghlj) by Tim Dupree
+- [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid) by [Yiannis Volos ](https://github.com/volos)
+- [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf) What HN says by [Flávio Juvenal](https://github.com/fjsj)
+- ~~<https://chrome.google.com/webstore/detail/hacker-news-hotkeys/nkeegljkkibjiiaehmjfncdbkbbgdojb>~~ by [David Trejo](https://github.com/DTrejo)
 - <https://github.com/janhancic/hnHiringFilter> <https://github.com/janhancic/hn-favourite-users> <https://github.com/janhancic/hn-unread-comments> by [Jan Hančič](https://github.com/janhancic/)
-- <https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi> by [Tuhin Kumar](https://github.com/tuhin)
-- <https://chrome.google.com/webstore/detail/hackemup/abjhkncpebiaepcpeopknaghepekbnpm?hl=en> HackemUp by [Oliver Beattie](https://github.com/obeattie)
-- <https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace> by [Dharmesh Patel](https://github.com/premii)
-- <https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo> by [Zinan Xing](https://github.com/zinanxing)
-- <http://hackbook.club/> by Cyrus Adkisson
-- <https://www.jitbit.com/hacker-news-rank/> by Artiom Dashinsky
-- <https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf> by [Godfrey Chan](https://github.com/chancancode)
+- [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi) by [Tuhin Kumar](https://github.com/tuhin)
+- ~~<https://chrome.google.com/webstore/detail/hackemup/abjhkncpebiaepcpeopknaghepekbnpm?hl=en>~~ HackemUp by [Oliver Beattie](https://github.com/obeattie)
+- [Hacker News Web App](https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace) by [Dharmesh Patel](https://github.com/premii)
+- [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo) by [Zinan Xing](https://github.com/zinanxing)
+- ~~<http://hackbook.club/>~~ by Cyrus Adkisson
+- [HNRank](https://www.jitbit.com/hacker-news-rank/) by Artiom Dashinsky
+- [HN Reader](https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf) by [Godfrey Chan](https://github.com/chancancode)
 - [Hacker News Real-Time](https://github.com/Bekt/hn-realify) by [Kanat Bekt](https://github.com/Bekt)
-- [Hacker News Filter](https://chrome.google.com/webstore/detail/hacker-news-filter/agohmjkdphojdlhkjejgmoicdpnlajam) by [Huan Huang](https://hackernewsfilter.com/)
+- ~~[Hacker News Filter](https://chrome.google.com/webstore/detail/hacker-news-filter/agohmjkdphojdlhkjejgmoicdpnlajam)~~ by [Huan Huang](https://hackernewsfilter.com/)
 
 ### Desktop (Windows, Mac, Linux)
 

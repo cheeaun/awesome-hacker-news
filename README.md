@@ -134,10 +134,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Email
 
-- <http://www.hackernewsletter.com/> by [Kale Davis](https://github.com/kale)
-- <http://hndigest.wordpress.com/> by Julian Corlet
-- <http://www.hndigest.com/>
-- <http://www.hackersdaily.com/> by Mike Singer
+- [Hacker Newsletter](http://www.hackernewsletter.com/) by [Kale Davis](https://github.com/kale)
+- [The HN Digest trial](http://hndigest.wordpress.com/) by Julian Corlet
+- [Hacker News Digest](http://www.hndigest.com/)
+- [Hackers Daily](http://www.hackersdaily.com) by Mike Singer
 - [HN Replies](http://www.hnreplies.com/) by [Dan Grossman](https://github.com/dangrossman)
 - ~~<http://hnsummaries.com/> by David Yang~~
 - ~~<http://www.showhndaily.com/> by Erica Reed~~
@@ -150,19 +150,19 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Social Media
 
-- <https://twitter.com/newsycombinator>
-- <https://twitter.com/hackernewsbot>
-- <https://twitter.com/newsyc20>
-- <https://twitter.com/newsyc50>
-- <https://twitter.com/newsyc100>
-- <https://twitter.com/newsyc150>
-- <https://twitter.com/newsyc200>
-- <https://twitter.com/newsyc250>
-- <https://twitter.com/JustShowHN>
-- ~~<https://twitter.com/hnfirehose>~~
-- ~~<https://twitter.com/hackerlinks>~~
-- ~~<https://twitter.com/HackerNewsYCBot>~~
-- ^hackernewsrss.campr.me (a [Tent](https://tent.io) account, no linkable web representation)
+- [@newsycombinator](https://twitter.com/newsycombinator)
+- [@hackernewsbot](https://twitter.com/hackernewsbot)
+- [@newsyc20](https://twitter.com/newsyc20)
+- [@newsyc50](https://twitter.com/newsyc50)
+- [@newsyc100](https://twitter.com/newsyc100)
+- [@newsyc150](https://twitter.com/newsyc150)
+- [@newsyc200](https://twitter.com/newsyc200)
+- [@newsyc250](https://twitter.com/newsyc250)
+- [@JustShowHN](https://twitter.com/JustShowHN)
+- [@hnfirehose](https://twitter.com/hnfirehose)
+- [@hackerlinks](https://twitter.com/hackerlinks)
+- [@HackerNewsYCBot](https://twitter.com/HackerNewsYCBot)
+- ~~hackernewsrss.campr.me~~ (a [Tent](https://tent.io) account, no linkable web representation)
 
 ### Browser Extensions
 

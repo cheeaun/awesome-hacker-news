@@ -204,11 +204,11 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [iHNews](https://github.com/guidefreitas/iHNews) by Guilherme Juraszek
 - [HackerNews for iPad](http://blog.libinpan.com/hacker-news/) by [Libin Pan](https://github.com/libin)
-- ~~<http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8> Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
-- ~~<https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8> Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
-- ~~<https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8> Hack News Top Stories by Andrew Jones
+- ~~<http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8>~~ Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
+- ~~<https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8>~~ Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
+- ~~<https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8>~~ Hack News Top Stories by Andrew Jones
 - [Padreader](https://itunes.apple.com/app/hacker-news-padreader/id428331410?mt=8) by [Ben Shive](https://github.com/BenSS)
-- ~~<https://itunes.apple.com/us/app/pivit/id705715915?mt=8> by [Alaric Cole](https://github.com/alariccole)
+- ~~<https://itunes.apple.com/us/app/pivit/id705715915?mt=8>~~ by [Alaric Cole](https://github.com/alariccole)
 - [Hack Later](http://brushedtype.co/apps/hack-later/) by [Mert Dumenci](https://github.com/mertdumenci)
 - [Hacker News (YC)](https://itunes.apple.com/us/app/hacker-news-yc/id713733435) - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)
 - [SwiftHN](http://dimillian.github.io/SwiftHN/) by [Thomas Ricouard](https://github.com/Dimillian)

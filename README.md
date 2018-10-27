@@ -202,18 +202,18 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### iOS
 
-- <https://github.com/guidefreitas/iHNews> by Guilherme Juraszek
-- <http://blog.libinpan.com/hacker-news/> by [Libin Pan](https://github.com/libin)
-- <http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8> Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
-- <https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8> Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
-- <https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8> Hack News Top Stories by Andrew Jones
-- <https://itunes.apple.com/app/hacker-news-padreader/id428331410?mt=8> by [Ben Shive](https://github.com/BenSS)
-- <https://itunes.apple.com/us/app/pivit/id705715915?mt=8> by [Alaric Cole](https://github.com/alariccole)
-- <http://brushedtype.co/apps/hack-later/> by [Mert Dumenci](https://github.com/mertdumenci)
-- <https://itunes.apple.com/us/app/hacker-news-yc/id713733435> - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)
-- <http://dimillian.github.io/SwiftHN/> by [Thomas Ricouard](https://github.com/Dimillian)
-- <http://hnclient.weebly.com/> by [Marcin Kmiec](https://github.com/bonzoq)
-- <https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110> by [Nate Wienert](https://github.com/natew)
+- [iHNews](https://github.com/guidefreitas/iHNews) by Guilherme Juraszek
+- [HackerNews for iPad](http://blog.libinpan.com/hacker-news/) by [Libin Pan](https://github.com/libin)
+- ~~<http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8> Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
+- ~~<https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8> Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
+- ~~<https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8> Hack News Top Stories by Andrew Jones
+- [Padreader](https://itunes.apple.com/app/hacker-news-padreader/id428331410?mt=8) by [Ben Shive](https://github.com/BenSS)
+- ~~<https://itunes.apple.com/us/app/pivit/id705715915?mt=8> by [Alaric Cole](https://github.com/alariccole)
+- [Hack Later](http://brushedtype.co/apps/hack-later/) by [Mert Dumenci](https://github.com/mertdumenci)
+- [Hacker News (YC)](https://itunes.apple.com/us/app/hacker-news-yc/id713733435) - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)
+- [SwiftHN](http://dimillian.github.io/SwiftHN/) by [Thomas Ricouard](https://github.com/Dimillian)
+- [Hacker News Client](http://hnclient.weebly.com/) by [Marcin Kmiec](https://github.com/bonzoq)
+- [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110) by [Nate Wienert](https://github.com/natew)
 - [Akepa](https://itunes.apple.com/us/app/id973153774?mt=8) by [Allen Ding](https://github.com/allending)
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8) by [Juan Chomali](https://twitter.com/jchomali) and [Néstor Palao](https://twitter.com/nrpalao)
 - [hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)
@@ -233,9 +233,9 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Android
 
-- <https://github.com/manmal/hn-android/> by [Manuel Maly](https://github.com/manmal)
-- <https://github.com/bishopmatthew/hackernews> by [Matthew Bishop](https://github.com/bishopmatthew)
-- <https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic> by [Ha Duy Trung](https://github.com/hidroh)
+- [HN-Android](https://github.com/manmal/hn-android/) by [Manuel Maly](https://github.com/manmal)
+- [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) by [Matthew Bishop](https://github.com/bishopmatthew)
+- [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) by [Ha Duy Trung](https://github.com/hidroh)
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews) by Kasun Gamlath
 - [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader) by [pumpkinz](https://github.com/pumpkinz)

@@ -257,14 +257,14 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Windows Phone
 
-- <http://www.windowsphone.com/en-us/store/app/hacker-news/57a88f24-7dce-47cb-b322-33a1a4178533> by [Matt McCormick](https://github.com/mbmccormick) [source](https://github.com/mbmccormick/HackerNews)
-- <http://www.windowsphone.com/en-gb/store/app/hacky-news/5e5a14a9-d08b-45ee-a5c2-b44713868af7> by [Livven](https://github.com/Livven)
+- [Hacker News](http://www.windowsphone.com/en-us/store/app/hacker-news/57a88f24-7dce-47cb-b322-33a1a4178533) by [Matt McCormick](https://github.com/mbmccormick) [source](https://github.com/mbmccormick/HackerNews)
+- [Hacky News](http://www.windowsphone.com/en-gb/store/app/hacky-news/5e5a14a9-d08b-45ee-a5c2-b44713868af7) by [Livven](https://github.com/Livven)
 - ~~<http://www.windowsphone.com/en-US/apps/a5275a3f-6611-48f6-bd62-7382eda4c028> by [Miguel Rochefort](https://github.com/miguelrochefort)~~
 -
 
 ### BlackBerry
 
-- <http://appworld.blackberry.com/webstore/content/34175888/> by [Kristopher Ruzic](https://github.com/krruzic)
+- [Reader YC](http://appworld.blackberry.com/webstore/content/34175888/) by [Kristopher Ruzic](https://github.com/krruzic)
 
 ### Kindle
 
@@ -281,13 +281,13 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Audio
 
-- <https://readbyhumans.com/> by [Raman Shalupau](https://github.com/ksaitor)
+- [ReadByHumans](https://readbyhumans.com/) by [Raman Shalupau](https://github.com/ksaitor)
 - ~~<http://www.hnpod.com/> by Alex Muir~~
 - ~~<http://soundgecko.com/station/hacker-news> by [Long Zheng](https://github.com/longzheng)~~
 
 ### Sublime Text plugins
 
-- <https://github.com/Dimillian/Sublime-Hacker-News-Reader> by [Thomas Ricouard](https://github.com/Dimillian)
+- [Sublime Hacker News Reader](https://github.com/Dimillian/Sublime-Hacker-News-Reader) by [Thomas Ricouard](https://github.com/Dimillian)
 - ~~<https://github.com/timdavies/HackerNews-SublimeTextPlugin> by [Tim Davies](https://github.com/timdavies)~~
 
 ### Vim
@@ -296,7 +296,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Emacs
 
-- <https://github.com/clarete/hackernews.el> by [Lincoln de Sousa](https://github.com/clarete)
+- [Hacker News Emacs Client](https://github.com/clarete/hackernews.el) by [Lincoln de Sousa](https://github.com/clarete)
 
 ### Command Line
 

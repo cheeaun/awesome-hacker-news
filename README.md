@@ -171,7 +171,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid) by [Yiannis Volos ](https://github.com/volos)
 - [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf) What HN says by [Flávio Juvenal](https://github.com/fjsj)
 - ~~<https://chrome.google.com/webstore/detail/hacker-news-hotkeys/nkeegljkkibjiiaehmjfncdbkbbgdojb>~~ by [David Trejo](https://github.com/DTrejo)
-- <https://github.com/janhancic/hnHiringFilter> <https://github.com/janhancic/hn-favourite-users> <https://github.com/janhancic/hn-unread-comments> by [Jan Hančič](https://github.com/janhancic/)
+- [hnHiringFilter](https://github.com/janhancic/hnHiringFilter), [HN Favourite Users](https://github.com/janhancic/hn-favourite-users) and [HN Unread Comments](https://github.com/janhancic/hn-unread-comments) by [Jan Hančič](https://github.com/janhancic/)
 - [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi) by [Tuhin Kumar](https://github.com/tuhin)
 - ~~<https://chrome.google.com/webstore/detail/hackemup/abjhkncpebiaepcpeopknaghepekbnpm?hl=en>~~ HackemUp by [Oliver Beattie](https://github.com/obeattie)
 - [Hacker News Web App](https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace) by [Dharmesh Patel](https://github.com/premii)

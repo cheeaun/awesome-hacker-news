@@ -219,6 +219,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759) by [Tim Shim](https://github.com/timshim)
 - [Hacker Wave](http://hackerwave.com/)
+- [Octal](https://itunes.apple.com/us/app/id1308885491)
 - ~~<http://www.lollicode.com/hn-cards/>~~
 - ~~<http://subvertapps.com/HN/> by Ben Gordon~~
 - ~~<http://weiranzhang.com/hackers> by [Weiran Zhang](https://github.com/weiran)~~

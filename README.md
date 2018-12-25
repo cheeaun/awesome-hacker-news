@@ -202,6 +202,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### iOS
 
+- [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844) by [fynally](https://fynally.com/)
 - [iHNews](https://github.com/guidefreitas/iHNews) by Guilherme Juraszek
 - [HackerNews for iPad](http://blog.libinpan.com/hacker-news/) by [Libin Pan](https://github.com/libin)
 - ~~<http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8>~~ Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
@@ -234,6 +235,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Android
 
+- [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews) by [fynally](https://fynally.com/)
 - [HN-Android](https://github.com/manmal/hn-android/) by [Manuel Maly](https://github.com/manmal)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) by [Matthew Bishop](https://github.com/bishopmatthew)
 - [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) by [Ha Duy Trung](https://github.com/hidroh)

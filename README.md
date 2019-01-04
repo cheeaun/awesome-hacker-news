@@ -65,6 +65,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HN Domain Leaderboard](https://hnleaderboard.com/)
 - [HN Ratio](https://paradite.github.io/hn-ratio/) by [paradite](https://github.com/paradite)
 - [Hacker News Books](https://hackernewsbooks.com/)
+- [HN.Academy](https://hn.academy/)
 - ~~<http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)~~
 - ~~<http://hacker-newspaper.gilesb.com/> by Giles Bowkett~~
 - ~~<http://project.mahemoff.com/hn/> by [Michael Mahemoff](https://github.com/mahemoff)~~

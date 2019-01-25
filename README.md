@@ -38,6 +38,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
+- [Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)
 - [Heikers](https://www.heikers.com/) by [The Heikers Team](https://github.com/heikers)
 - [Hack Ernews](http://hack.ernews.info/) by [Antonis Karamitros](https://github.com/AntouanK)
 - [HCKR news](http://hckrnews.com/) by [Wayne Larsen](https://github.com/wvl)
@@ -111,6 +112,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Mobile Web
 
+- [Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)
 - [Ihackernews](http://ihackernews.com/) by Ronnie Roller
 - [Hacker News Mobile](http://hn.premii.com/) by [Dharmesh Patel](https://github.com/premii)
 - [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)

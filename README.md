@@ -207,6 +207,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### iOS
 
+- [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
 - [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844) by [fynally](https://fynally.com/)
 - [iHNews](https://github.com/guidefreitas/iHNews) by Guilherme Juraszek
 - [HackerNews for iPad](http://blog.libinpan.com/hacker-news/) by [Libin Pan](https://github.com/libin)

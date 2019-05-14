@@ -139,6 +139,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Email
 
+- [AskHN Digest](https://askhndigest.com/) by [Oriol Gasquez](https://github.com/Oriol-GG)
 - [Hacker Newsletter](http://www.hackernewsletter.com/) by [Kale Davis](https://github.com/kale)
 - [The HN Digest trial](http://hndigest.wordpress.com/) by Julian Corlet
 - [Hacker News Digest](http://www.hndigest.com/)

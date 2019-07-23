@@ -38,6 +38,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
+- [Hackrdot](https://www.hackrdot.com) by [Ege Erdogan](https://github.com/ege-erdogan)
 - [Hacker-News.news](https://www.hacker-news.news) by [Gabriele Picco](https://gabrielepicco.github.io/)
 - [Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)
 - [Heikers](https://www.heikers.com/) by [The Heikers Team](https://github.com/heikers)

@@ -247,6 +247,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HN-Android](https://github.com/manmal/hn-android/) by [Manuel Maly](https://github.com/manmal)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) by [Matthew Bishop](https://github.com/bishopmatthew)
 - [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) by [Ha Duy Trung](https://github.com/hidroh)
+- [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews) by [CheatCode](https://github.com/ShivamRawat0l)
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews) by Kasun Gamlath
 - [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader) by [pumpkinz](https://github.com/pumpkinz)

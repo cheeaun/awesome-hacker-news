@@ -146,6 +146,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker News Digest](http://www.hndigest.com/)
 - [Hackers Daily](http://www.hackersdaily.com) by Mike Singer
 - [HN Replies](http://www.hnreplies.com/) by [Dan Grossman](https://github.com/dangrossman)
+- [HN Mail](https://hnmail.io) by [Desmond Ding](https://github.com/kingdido999)
 - ~~<http://hnsummaries.com/> by David Yang~~
 - ~~<http://www.showhndaily.com/> by Erica Reed~~
 - ~~<http://www.hnmention.com/> by Teng Siong Ong~~

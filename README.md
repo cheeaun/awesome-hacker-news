@@ -244,7 +244,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Android
 
-- [Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlaunchers) by [SkyTreasure](https://github.com/SkyTreasure)
+- [Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlauncher) by [SkyTreasure](https://github.com/SkyTreasure)
 - [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews) by [fynally](https://fynally.com/)
 - [HN-Android](https://github.com/manmal/hn-android/) by [Manuel Maly](https://github.com/manmal)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) by [Matthew Bishop](https://github.com/bishopmatthew)
@@ -295,7 +295,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - ~~<http://hackernation.tv/>~~
 
 ### Audio
-- [Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlaunchers) by [SkyTreasure](https://github.com/SkyTreasure)
+- [Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlauncher) by [SkyTreasure](https://github.com/SkyTreasure)
 - [ReadByHumans](https://readbyhumans.com/) by [Raman Shalupau](https://github.com/ksaitor)
 - ~~<http://www.hnpod.com/> by Alex Muir~~
 - ~~<http://soundgecko.com/station/hacker-news> by [Long Zheng](https://github.com/longzheng)~~

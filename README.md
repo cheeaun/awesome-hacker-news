@@ -313,6 +313,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Emacs
 
 - [Hacker News Emacs Client](https://github.com/clarete/hackernews.el) by [Lincoln de Sousa](https://github.com/clarete)
+- [Gnus Backend](https://github.com/dickmao/nnhackernews) by [dickmao](https://github.com/dickmao)
 
 ### Command Line
 

@@ -196,10 +196,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Mac OS
 
-- [Hacker Bar](http://hackerbarapp.com/) by [Mark Rickert](https://github.com/markrickert)
-- [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12) by [Haris Amin](https://github.com/hamin)
 - [Hacker Menu](https://hackermenu.io/) by [Jingwen Owen Ou](https://github.com/jingweno)
 - [touchHNews](https://github.com/mrmekon/toucHNews) - Hacker News (YCombinator) news feed for the Mac Touch Bar
+- [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12) by [Haris Amin](https://github.com/hamin) (Not available in U.S.)
+- ~~[Hacker Bar](http://hackerbarapp.com/) by [Mark Rickert](https://github.com/markrickert)~~
 - ~~<http://www.guidefreitas.com/hacker-news-menubar-osx/> by Guilherme Juraszek~~
 - ~~<http://www.hackyapp.com/> by [Elias Klughammer](https://github.com/eliaskg)~~
 - ~~<http://whimsyapps.com/hn/> by [James Dumay](https://github.com/i386)~~

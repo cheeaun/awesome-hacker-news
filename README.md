@@ -40,8 +40,6 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [Hackrdot](https://www.hackrdot.com) by [Ege Erdogan](https://github.com/ege-erdogan)
 - [Hacker-News.news](https://www.hacker-news.news) by [Gabriele Picco](https://gabrielepicco.github.io/)
-- [Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)
-- [Heikers](https://www.heikers.com/) by [The Heikers Team](https://github.com/heikers)
 - [Hack Ernews](http://hack.ernews.info/) by [Antonis Karamitros](https://github.com/AntouanK)
 - [HCKR news](http://hckrnews.com/) by [Wayne Larsen](https://github.com/wvl)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/) & http://www.daemonology.net/hn-weekly-show/ by Colin Percival
@@ -53,19 +51,16 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
 - [HNWatcher](https://www.hnwatcher.com/)
 - [HN Filter](http://hn-filter.appspot.com/)
-- [News Hack](http://newshack.io/) by [Xcoo, Inc](https://github.com/Inc)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [HNPaper](http://hnpaper.forge.partlab.io/) by [Régis Gaidot](https://github.com/rgaidot)
-- ~~<http://chancancode.github.io/hn-reader>~~ by [Godfrey Chan](https://github.com/chancancode)
+- [HN Reader](http://chancancode.github.io/hn-reader) by [Godfrey Chan](https://github.com/chancancode)
 - [Clean Hacker News](https://adriel.co.nz/news/) by [Adriel Kloppenburg](https://github.com/adriel)
-- [serializer](http://serializer.charlieegan3.com) by [Charlie Egan](https://github.com/charlieegan3)
 - [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
 - [Hackjob.io](https://hackjobio.herokuapp.com/) by [David Titarenco](https://github.com/dvx)
 - [See what Hacker News looked like on the day you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [TopHN](https://tophn.org/)
-- [HN Domain Leaderboard](https://hnleaderboard.com/)
 - [HN Ratio](https://paradite.github.io/hn-ratio/) by [paradite](https://github.com/paradite)
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [HN.Academy](https://hn.academy/)
@@ -111,14 +106,16 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - ~~[The Mood Tool](http://www.themoodtool.com/hn) by [Chris Villa](https://github.com/chrisvxd)~~
 - ~~[Hacker Hunt](https://hackerhunt.co/)~~
 - ~~[HackerNews grid](http://hackernewsgrid.com/)~~
+- ~~[Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)~~
+- ~~[Heikers](https://www.heikers.com/) by [The Heikers Team](https://github.com/heikers)~~
+- ~~[News Hack](http://newshack.io/) by [Xcoo, Inc](https://github.com/Inc)~~
+- ~~[serializer](http://serializer.charlieegan3.com) by [Charlie Egan](https://github.com/charlieegan3)~~
+- ~~[HN Domain Leaderboard](https://hnleaderboard.com/)~~
 
 ### Mobile Web
 
-- [Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)
-- [Ihackernews](http://ihackernews.com/) by Ronnie Roller
 - [Hacker News Mobile](http://hn.premii.com/) by [Dharmesh Patel](https://github.com/premii)
 - [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)
-- [Hacker News Digest](http://www.hackernews.im) by [Poly Miao](https://github.com/polyrabbit/) [source](https://github.com/polyrabbit/hacker-news-digest)
 - [Hacker News Mobile](http://hackernewsmobile.com/) ([GitHub](https://github.com/jsdf/hacker-news-mobile)) by [James Friend](https://github.com/jsdf)
 - ~~<http://hn.meteor.com/> by [Zach Denton](https://github.com/zacharydenton)~~
 - ~~<http://hn.gethifi.com/> by [Joel Sutherland](https://github.com/JoelSutherland) and [Kris Jordan](https://github.com/KrisJordan)~~
@@ -130,6 +127,9 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - ~~<http://hnmobile.herokuapp.com/> by [mheguevara](https://github.com/mheguevara)~~
 - ~~<http://hn.reapp.io/> by [Nate Wienert](https://github.com/natew)~~
 - ~~[Ainomma](http://ainomma.azurewebsites.net/) by [Adam Cooper](https://github.com/adam7)~~
+- ~~[Top HN Posts - since last 8hrs](https://www.8hrs.xyz/) by [Seshachalam Malisetti](https://github.com/mseshachalam)~~
+- ~~[Ihackernews](http://ihackernews.com/) by Ronnie Roller~~
+- ~~[Hacker News Digest](http://www.hackernews.im) by [Poly Miao](https://github.com/polyrabbit/) [source](https://github.com/polyrabbit/hacker-news-digest)~~
 
 ### RSS/Atom Feeds
 
@@ -168,9 +168,9 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [@newsyc250](https://twitter.com/newsyc250)
 - [@JustShowHN](https://twitter.com/JustShowHN)
 - [@hnfirehose](https://twitter.com/hnfirehose)
-- [@hackerlinks](https://twitter.com/hackerlinks)
-- [@HackerNewsYCBot](https://twitter.com/HackerNewsYCBot)
 - ~~hackernewsrss.campr.me~~ (a [Tent](https://tent.io) account, no linkable web representation)
+- ~~[@hackerlinks](https://twitter.com/hackerlinks)~~
+- ~~[@HackerNewsYCBot](https://twitter.com/HackerNewsYCBot)~~
 
 ### Browser Extensions
 
@@ -186,7 +186,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo) by [Zinan Xing](https://github.com/zinanxing)
 - ~~<http://hackbook.club/>~~ by Cyrus Adkisson
 - [HNRank](https://www.jitbit.com/hacker-news-rank/) by Artiom Dashinsky
-- [HN Reader](https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf) by [Godfrey Chan](https://github.com/chancancode)
+- ~~[HN Reader](https://chrome.google.com/webstore/detail/hn-reader/emgghjnnkkopedbjfajejpkidaiedhlf) by [Godfrey Chan](https://github.com/chancancode)~~
 - [Hacker News Real-Time](https://github.com/Bekt/hn-realify) by [Kanat Bekt](https://github.com/Bekt)
 - ~~[Hacker News Filter](https://chrome.google.com/webstore/detail/hacker-news-filter/agohmjkdphojdlhkjejgmoicdpnlajam)~~ by [Huan Huang](https://hackernewsfilter.com/)
 
@@ -214,22 +214,17 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
 - [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844) by [fynally](https://fynally.com/)
 - [iHNews](https://github.com/guidefreitas/iHNews) by Guilherme Juraszek
-- [HackerNews for iPad](http://blog.libinpan.com/hacker-news/) by [Libin Pan](https://github.com/libin)
 - ~~<http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8>~~ Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
 - ~~<https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8>~~ Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
 - ~~<https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8>~~ Hack News Top Stories by Andrew Jones
-- [Padreader](https://itunes.apple.com/app/hacker-news-padreader/id428331410?mt=8) by [Ben Shive](https://github.com/BenSS)
 - ~~<https://itunes.apple.com/us/app/pivit/id705715915?mt=8>~~ by [Alaric Cole](https://github.com/alariccole)
 - [Hack Later](http://brushedtype.co/apps/hack-later/) by [Mert Dumenci](https://github.com/mertdumenci)
 - [Hacker News (YC)](https://itunes.apple.com/us/app/hacker-news-yc/id713733435) - Hacker News (YC) by [Dharmesh Patel](https://github.com/premii)
 - [SwiftHN](http://dimillian.github.io/SwiftHN/) by [Thomas Ricouard](https://github.com/Dimillian)
 - [Hacker News Client](http://hnclient.weebly.com/) by [Marcin Kmiec](https://github.com/bonzoq)
 - [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110) by [Nate Wienert](https://github.com/natew)
-- ~~[Akepa](https://itunes.apple.com/us/app/id973153774?mt=8)~~ by [Allen Ding](https://github.com/allending)
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8) by [Juan Chomali](https://twitter.com/jchomali) and [Néstor Palao](https://twitter.com/nrpalao)
-- [hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759) by [Tim Shim](https://github.com/timshim)
-- [Hacker Wave](http://hackerwave.com/)
 - [Octal](https://itunes.apple.com/us/app/id1308885491)
 - ~~<http://www.lollicode.com/hn-cards/>~~
 - ~~<http://subvertapps.com/HN/> by Ben Gordon~~
@@ -242,10 +237,14 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - ~~<http://newsyc.me/> by [Grant Paul](https://github.com/grp)~~
 - ~~<http://www.hnreaderapp.com/> by [Ryan Scherf](https://github.com/rscherf) and [Steve Finkelstein](https://github.com/stevef)~~
 - ~~<http://michaelgrinich.com/hackernews/> by [Michael Grinich](https://github.com/grinich)~~
+- ~~[HackerNews for iPad](http://blog.libinpan.com/hacker-news/) by [Libin Pan](https://github.com/libin)~~
+- ~~[Padreader](https://itunes.apple.com/app/hacker-news-padreader/id428331410?mt=8) by [Ben Shive](https://github.com/BenSS)~~
+- ~~[Akepa](https://itunes.apple.com/us/app/id973153774?mt=8)~~ by [Allen Ding](https://github.com/allending)
+- ~~[hn.](https://itunes.apple.com/us/app/hn.-yet-another-hacker-news/id1067637048) by [Faiz Mokhtar](https://twitter.com/faizmokh)~~
+- ~~[Hacker Wave](http://hackerwave.com/)~~
 
 ### Android
 
-- [Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlauncher) by [SkyTreasure](https://github.com/SkyTreasure)
 - [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews) by [fynally](https://fynally.com/)
 - [HN-Android](https://github.com/manmal/hn-android/) by [Manuel Maly](https://github.com/manmal)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) by [Matthew Bishop](https://github.com/bishopmatthew)
@@ -254,8 +253,9 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews) by Kasun Gamlath
 - [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader) by [pumpkinz](https://github.com/pumpkinz)
-- [Hacker News](https://play.google.com/store/apps/details?id=net.dreambits.hackernews) by [Dreambits](http://dreambits.net/hackernews/)
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews) by [Elliot Murray](https://github.com/elliotmurray/)
+- ~~[Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlauncher) by [SkyTreasure](https://github.com/SkyTreasure)~~
+- ~~[Hacker News](https://play.google.com/store/apps/details?id=net.dreambits.hackernews) by [Dreambits](http://dreambits.net/hackernews/)~~
 - ~~[Cheddar](https://play.google.com/store/apps/details?id=co.adrianblan.cheddar) by [Adrian Blanco](https://github.com/adrianblp)~~
 - ~~[Yahnac](https://play.google.com/store/apps/details?id=com.malmstein.yahnac) by [David González](https://github.com/malmstein)~~
 - ~~[Hackers](https://play.google.com/store/apps/details?id=com.eduardn.hnapp) by [Eduard Neculaesi](https://github.com/eduardn)~~
@@ -297,10 +297,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - ~~<http://hackernation.tv/>~~
 
 ### Audio
-- [Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlauncher) by [SkyTreasure](https://github.com/SkyTreasure)
 - [ReadByHumans](https://readbyhumans.com/) by [Raman Shalupau](https://github.com/ksaitor)
 - ~~<http://www.hnpod.com/> by Alex Muir~~
 - ~~<http://soundgecko.com/station/hacker-news> by [Long Zheng](https://github.com/longzheng)~~
+- ~~[Hacker News Launcher](https://play.google.com/store/apps/details?id=com.fxpi.hnlauncher) by [SkyTreasure](https://github.com/SkyTreasure)~~
 
 ### Sublime Text plugins
 
@@ -351,11 +351,11 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Slack
 
-- [HN Bot](https://hnbot.co/) by [Huan Huang](https://news.ycombinator.com/user?id=huan9huan)
+- ~~[HN Bot](https://hnbot.co/) by [Huan Huang](https://news.ycombinator.com/user?id=huan9huan)~~
 
 ### Facebook Messenger
 
-- [HN Bot](https://www.messenger.com/t/daydaycodedev) by [Teddy Lun](https://github.com/teddylun)
+- ~~[HN Bot](https://www.messenger.com/t/daydaycodedev) by [Teddy Lun](https://github.com/teddylun)~~
 
 ## Resources
 

@@ -255,6 +255,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hews](https://leavjenn.github.io/Hews/) by [Leav Jenn](https://github.com/leavjenn)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader) by [pumpkinz](https://github.com/pumpkinz)
 - [Hacker News](https://play.google.com/store/apps/details?id=net.dreambits.hackernews) by [Dreambits](http://dreambits.net/hackernews/)
+- [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews) by [Elliot Murray](https://github.com/elliotmurray/)
 - ~~[Cheddar](https://play.google.com/store/apps/details?id=co.adrianblan.cheddar) by [Adrian Blanco](https://github.com/adrianblp)~~
 - ~~[Yahnac](https://play.google.com/store/apps/details?id=com.malmstein.yahnac) by [David González](https://github.com/malmstein)~~
 - ~~[Hackers](https://play.google.com/store/apps/details?id=com.eduardn.hnapp) by [Eduard Neculaesi](https://github.com/eduardn)~~

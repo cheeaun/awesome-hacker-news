@@ -38,6 +38,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
+- [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity) by [metamatex](https://github.com/metamatex)
 - [Hackrdot](https://www.hackrdot.com) by [Ege Erdogan](https://github.com/ege-erdogan)
 - [Hacker-News.news](https://www.hacker-news.news) by [Gabriele Picco](https://gabrielepicco.github.io/)
 - [Hack Ernews](http://hack.ernews.info/) by [Antonis Karamitros](https://github.com/AntouanK)

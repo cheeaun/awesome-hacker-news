@@ -65,7 +65,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [TopHN](https://tophn.org/)
 - [HN Ratio](https://paradite.github.io/hn-ratio/) by [paradite](https://github.com/paradite)
 - [Hacker News Books](https://hackernewsbooks.com/)
-- [HN.Academy](https://hn.academy/)
+- [HN Academy](https://yahnd.com/academy/) by [jeremiahkonkle](https://github.com/jeremiahkonkle)
+- [HN Theater](https://yahnd.com/theater/) by [jeremiahkonkle](https://github.com/jeremiahkonkle)
 - ~~<http://hn.embed.ly/> by [Bob Corsaro](https://github.com/dokipen) - broken due to rate limiting [source](https://github.com/embedly/kalimba)~~
 - ~~<http://hacker-newspaper.gilesb.com/> by Giles Bowkett~~
 - ~~<http://project.mahemoff.com/hn/> by [Michael Mahemoff](https://github.com/mahemoff)~~
@@ -170,6 +171,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [@newsyc250](https://twitter.com/newsyc250)
 - [@JustShowHN](https://twitter.com/JustShowHN)
 - [@hnfirehose](https://twitter.com/hnfirehose)
+- [@HNTheaterMonth](https://twitter.com/HNTheaterMonth)
 - ~~hackernewsrss.campr.me~~ (a [Tent](https://tent.io) account, no linkable web representation)
 - ~~[@hackerlinks](https://twitter.com/hackerlinks)~~
 - ~~[@HackerNewsYCBot](https://twitter.com/HackerNewsYCBot)~~

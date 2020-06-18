@@ -138,6 +138,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [HNapp](http://hnapp.com/) by [Nikita Gazarov](https://github.com/raquo)
 - [Hacker News RSS](https://edavis.github.io/hnrss/) by [Eric Davis](https://github.com/edavis)
+- [hnfaves](https://hnfaves.com/user?p=page?type=rss|atom|json) by [figassis](https://news.ycombinator.com/item?id=23568618) - Subscribe to a user's favorites (replace 'user' in URL with username)
 - ~~<http://ashleyw.co.uk/project/hacker-news-feeds> by [Ashley Williams](https://github.com/ashleyw)~~
 - ~~<http://feedhint.com/> by [Raphael Pereira](https://github.com/raphaelpereira)~~
 

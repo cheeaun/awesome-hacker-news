@@ -218,6 +218,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
 - [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844) by [fynally](https://fynally.com/)
 - [iHNews](https://github.com/guidefreitas/iHNews) by Guilherme Juraszek
+- https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8 by Pranoy Chowdhury
 - ~~<http://itunes.apple.com/us/app/simple-hacker-news-simple/id563736471?mt=8>~~ Simple Hacker News by [Ashish Gandhi](https://github.com/ashishgandhi)
 - ~~<https://itunes.apple.com/sg/app/hackerful-ycombinators-hacker/id578256868?mt=8>~~ Hackerful by [Alberto Garcia Hierro](https://github.com/fiam)
 - ~~<https://itunes.apple.com/us/app/hacker-news-top-stories/id427692437?mt=8>~~ Hack News Top Stories by Andrew Jones

@@ -230,6 +230,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8) by [Juan Chomali](https://twitter.com/jchomali) and [Néstor Palao](https://twitter.com/nrpalao)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759) by [Tim Shim](https://github.com/timshim)
 - [Octal](https://itunes.apple.com/us/app/id1308885491)
+- [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8) by Pranoy Chowdhury
 - ~~<http://www.lollicode.com/hn-cards/>~~
 - ~~<http://subvertapps.com/HN/> by Ben Gordon~~
 - ~~<http://weiranzhang.com/hackers> by [Weiran Zhang](https://github.com/weiran)~~

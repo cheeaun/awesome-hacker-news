@@ -251,7 +251,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Android
 
 - [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews) by [fynally](https://fynally.com/)
-- [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android) 
+- [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android) by [Rupesh Urmaliya](https://github.com/rupeshurmaliya)
 - [HN-Android](https://github.com/manmal/hn-android/) by [Manuel Maly](https://github.com/manmal)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews) by [Matthew Bishop](https://github.com/bishopmatthew)
 - [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) by [Ha Duy Trung](https://github.com/hidroh)

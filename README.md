@@ -200,6 +200,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Mac OS
 
+- [Darker News for Safari](https://apps.apple.com/us/app/darker-news-for-safari/id1562920743) by [Will Walker](https://willswire.com)
 - [Hacker Menu](https://hackermenu.io/) by [Jingwen Owen Ou](https://github.com/jingweno)
 - [touchHNews](https://github.com/mrmekon/toucHNews) - Hacker News (YCombinator) news feed for the Mac Touch Bar
 - [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12) by [Haris Amin](https://github.com/hamin) (Not available in U.S.)

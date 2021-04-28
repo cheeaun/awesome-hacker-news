@@ -59,6 +59,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [HN Academy](https://yahnd.com/academy/)
 - [HN Theater](https://yahnd.com/theater/)
+- [Best Hacker News](http://besthackernews.herokuapp.com) (Shows articles ranked by score. Responsive, works also on mobile)
 
 ### Mobile Web
 

@@ -121,6 +121,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker Menu](https://hackermenu.io/)
 - [touchHNews](https://github.com/mrmekon/toucHNews)
 - [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12)
+- [HNReader](https://github.com/mattrighetti/HNReaderApp)
 
 ### Linux
 

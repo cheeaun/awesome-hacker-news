@@ -60,7 +60,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HN Academy](https://yahnd.com/academy/)
 - [HN Theater](https://yahnd.com/theater/)
 - [Best Hacker News](http://besthackernews.herokuapp.com)
-
+- [Comments.hn](https://comments.hn)
+- 
 ### Mobile Web
 
 - [Hacker News Mobile](http://hn.premii.com/)

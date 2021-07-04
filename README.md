@@ -30,87 +30,88 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
+- [Best Hacker News](http://besthackernews.herokuapp.com)
+- [Clean Hacker News](https://adriel.co.nz/news/)
+- [Comments.hn](https://comments.hn)
+- [Full Hacker News](http://www.fullhn.com/)
+- [Hack Ernews](http://hack.ernews.info/)
+- [Hacker News Books](https://hackernewsbooks.com/)
+- [Hacker News Confidence](http://hn.elijames.org/)
+- [Hacker News Daily](http://www.daemonology.net/hn-daily/)
+- [Hacker News Rankings](http://hnrankings.info/)
+- [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews Trends](https://showcase.metamate.io/hackernews-trends)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
+- [Hackjob.io](https://hackjobio.herokuapp.com/)
 - [Hackrdot](https://www.hackrdot.com)
-- [Hacker-News.news](https://www.hacker-news.news)
-- [Hack Ernews](http://hack.ernews.info/)
 - [HCKR news](http://hckrnews.com/)
-- [Hacker News Daily](http://www.daemonology.net/hn-daily/)
-- [Hacker News Confidence](http://hn.elijames.org/)
-- [The Ajax Post](http://theajaxpost.appspot.com/theajaxpost)
-- [Hacker News Rankings](http://hnrankings.info/)
-- [HNHIRING](http://hnhiring.com/)
-- [HNHiringMe](http://hnhiring.me/)
-- [Full Hacker News](http://www.fullhn.com/)
-- [HNWatcher](https://www.hnwatcher.com/)
+- [HN Academy](https://yahnd.com/academy/)
+- [HN Cake Day](http://bemmu.github.io/hncakeday/)
 - [HN Filter](http://hn-filter.appspot.com/)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)
-- [React HN](http://insin.github.io/react-hn/)
-- [HNPaper](http://hnpaper.forge.partlab.io/)
+- [HN Ratio](https://paradite.github.io/hn-ratio/)
 - [HN Reader](http://chancancode.github.io/hn-reader)
-- [Clean Hacker News](https://adriel.co.nz/news/)
-- [Wayback HN](http://www.waybackhn.com/)
-- [Hackjob.io](https://hackjobio.herokuapp.com/)
-- [HN Cake Day](http://bemmu.github.io/hncakeday/)
+- [HN Theater](https://yahnd.com/theater/)
+- [HNHIRING](http://hnhiring.com/)
+- [HNHiringMe](http://hnhiring.me/)
+- [HNPaper](http://hnpaper.forge.partlab.io/)
+- [HNWatcher](https://www.hnwatcher.com/)
+- [React HN](http://insin.github.io/react-hn/)
+- [The Ajax Post](http://theajaxpost.appspot.com/theajaxpost)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [TopHN](https://tophn.org/)
-- [HN Ratio](https://paradite.github.io/hn-ratio/)
-- [Hacker News Books](https://hackernewsbooks.com/)
-- [HN Academy](https://yahnd.com/academy/)
-- [HN Theater](https://yahnd.com/theater/)
-- [Best Hacker News](http://besthackernews.herokuapp.com)
-- [Comments.hn](https://comments.hn)
-- 
+- [Wayback HN](http://www.waybackhn.com/)
+
 ### Mobile Web
 
+- [Calmer News](https://calmernews.com)
+- [Hacker News Mobile](http://hackernewsmobile.com/)
 - [Hacker News Mobile](http://hn.premii.com/)
 - [HackerWeb](http://hackerwebapp.com/)
-- [Hacker News Mobile](http://hackernewsmobile.com/)
 
 ### RSS/Atom Feeds
 
-- [HNapp](http://hnapp.com/)
 - [Hacker News RSS](https://edavis.github.io/hnrss/)
+- [HNapp](http://hnapp.com/)
 
 ### Email
 
 - [AskHN Digest](https://askhndigest.com/)
-- [Hacker Newsletter](http://www.hackernewsletter.com/)
-- [The HN Digest trial](http://hndigest.wordpress.com/)
 - [Hacker News Digest](http://www.hndigest.com/)
+- [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Hackers Daily](http://www.hackersdaily.com)
-- [HN Replies](http://www.hnreplies.com/)
 - [HN Mail](https://hnmail.io)
+- [HN Replies](http://www.hnreplies.com/)
+- [The HN Digest trial](http://hndigest.wordpress.com/)
 
 ### Social Media
 
-- [@newsycombinator](https://twitter.com/newsycombinator)
 - [@hackernewsbot](https://twitter.com/hackernewsbot)
-- [@newsyc20](https://twitter.com/newsyc20)
-- [@newsyc50](https://twitter.com/newsyc50)
-- [@newsyc100](https://twitter.com/newsyc100)
-- [@newsyc150](https://twitter.com/newsyc150)
-- [@newsyc200](https://twitter.com/newsyc200)
-- [@newsyc250](https://twitter.com/newsyc250)
-- [@JustShowHN](https://twitter.com/JustShowHN)
 - [@hnfirehose](https://twitter.com/hnfirehose)
 - [@HNTheaterMonth](https://twitter.com/HNTheaterMonth)
+- [@JustShowHN](https://twitter.com/JustShowHN)
+- [@newsyc100](https://twitter.com/newsyc100)
+- [@newsyc150](https://twitter.com/newsyc150)
+- [@newsyc20](https://twitter.com/newsyc20)
+- [@newsyc200](https://twitter.com/newsyc200)
+- [@newsyc250](https://twitter.com/newsyc250)
+- [@newsyc50](https://twitter.com/newsyc50)
+- [@newsycombinator](https://twitter.com/newsycombinator)
 
 ### Browser Extensions
 
+- [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi)
 - [Hacker News extension](https://chrome.google.com/webstore/detail/geancnifhbkbjijfkcjjdnfemppmcjmk)
 - [Hacker News OnePage](https://chrome.google.com/webstore/detail/plldnnbdlbgbiknjebohmlggcbicghlj)
+- [Hacker News Real-Time](https://github.com/Bekt/hn-realify)
+- [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo)
 - [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid)
-- [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
-- [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
+- [Hacker News Web App](https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace)
 - [HN Favourite Users](https://github.com/janhancic/hn-favourite-users)
 - [HN Unread Comments](https://github.com/janhancic/hn-unread-comments)
-- [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi)
-- [Hacker News Web App](https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace)
-- [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo)
+- [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
 - [HNRank](https://www.jitbit.com/hacker-news-rank/)
-- [Hacker News Real-Time](https://github.com/Bekt/hn-realify)
+- [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
 
 ### Desktop (Windows, Mac, Linux)
 
@@ -120,9 +121,9 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [Darker News for Safari](https://apps.apple.com/us/app/darker-news-for-safari/id1562920743)
 - [Hacker Menu](https://hackermenu.io/)
-- [touchHNews](https://github.com/mrmekon/toucHNews)
-- [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12)
 - [HNReader](https://github.com/mattrighetti/HNReaderApp)
+- [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12)
+- [touchHNews](https://github.com/mrmekon/toucHNews)
 
 ### Linux
 
@@ -130,38 +131,37 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### iOS
 
-- [Top Now](https://apps.apple.com/us/app/top-now/id1486916333?ls=1)
-- [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
-- [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844)
-- [iHNews](https://github.com/guidefreitas/iHNews)
-- [Hack Later](http://brushedtype.co/apps/hack-later/)
-- [Hacker News (YC)](https://itunes.apple.com/us/app/hacker-news-yc/id713733435)
-- [SwiftHN](http://dimillian.github.io/SwiftHN/)
-- [Hacker News Client](http://hnclient.weebly.com/)
-- [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110)
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8)
-- [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759)
-- [Octal](https://itunes.apple.com/us/app/id1308885491)
 - [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
+- [Hack Later](http://brushedtype.co/apps/hack-later/)
+- [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
+- [Hacker News (YC)](https://itunes.apple.com/us/app/hacker-news-yc/id713733435)
+- [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110)
+- [Hacker News Client](http://hnclient.weebly.com/)
+- [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844)
+- [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759)
+- [iHNews](https://github.com/guidefreitas/iHNews)
+- [Octal](https://itunes.apple.com/us/app/id1308885491)
+- [SwiftHN](http://dimillian.github.io/SwiftHN/)
+- [Top Now](https://apps.apple.com/us/app/top-now/id1486916333?ls=1)
 
 ### Android
 
+- [Hacker News client for Android](https://github.com/bishopmatthew/hackernews)
 - [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews)
 - [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
-- [HN-Android](https://github.com/manmal/hn-android/)
-- [Hacker News client for Android](https://github.com/bishopmatthew/hackernews)
-- [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)
-- [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
-- [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews)
 - [Hews](https://leavjenn.github.io/Hews/)
-- [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader)
+- [HN-Android](https://github.com/manmal/hn-android/)
+- [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews)
+- [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
+- [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader)
+- [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
 
 ### Windows Phone
 
 - [Hacker News](http://www.windowsphone.com/en-us/store/app/hacker-news/57a88f24-7dce-47cb-b322-33a1a4178533)
 - [Hacky News](http://www.windowsphone.com/en-gb/store/app/hacky-news/5e5a14a9-d08b-45ee-a5c2-b44713868af7)
-
 
 ### BlackBerry
 
@@ -181,21 +181,21 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Emacs
 
-- [Hacker News Emacs Client](https://github.com/clarete/hackernews.el)
 - [Gnus Backend](https://github.com/dickmao/nnhackernews)
+- [Hacker News Emacs Client](https://github.com/clarete/hackernews.el)
 
 ### Command Line
 
-- [Node HackerNews](https://github.com/headcanon/node-hn)
+- [GO-HN](https://gitlab.com/shank/go-hn)
 - [Gohn](https://github.com/gedex/gohn)
-- [Hacker Top](https://github.com/pkrumins/hacker-top)
 - [Hacker News in the Terminal](http://andrewvos.com/2013/08/02/hacker-news-in-the-terminal/)
 - [Hacker News ncurses CLI](https://github.com/andrewstuart/hn)
+- [Hacker Top](https://github.com/pkrumins/hacker-top)
+- [HackerFeed](https://github.com/pratyushprakash/HackerFeed)
 - [Hackernews CLI](https://github.com/mtharrison/hackernews)
 - [Haxor-News](https://github.com/donnemartin/haxor-news)
+- [Node HackerNews](https://github.com/headcanon/node-hn)
 - [Pyhn](https://github.com/socketubs/pyhn)
-- [GO-HN](https://gitlab.com/shank/go-hn)
-- [HackerFeed](https://github.com/pratyushprakash/HackerFeed)
 
 ### Alfred workflows
 

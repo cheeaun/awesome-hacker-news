@@ -120,6 +120,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
 - [Hacker Smacker](https://hackersmacker.org)
 
+### Userscripts
+
+- [Hacker News new tab](https://gist.github.com/DavideViolante/04e42628b9e6b4a2f8aec3875e44990c)
+
 ### Desktop (Windows, Mac, Linux)
 
 - [HNClient](https://florian.github.io/HNClient/)

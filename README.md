@@ -86,6 +86,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Social Media
 
+#### Twitter
+
 - [@hackernewsbot](https://twitter.com/hackernewsbot)
 - [@hnfirehose](https://twitter.com/hnfirehose)
 - [@HNTheaterMonth](https://twitter.com/HNTheaterMonth)
@@ -97,6 +99,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [@newsyc250](https://twitter.com/newsyc250)
 - [@newsyc50](https://twitter.com/newsyc50)
 - [@newsycombinator](https://twitter.com/newsycombinator)
+
+#### Instagram
+
+- [@hacker._news](https://www.instagram.com/hacker._news)
 
 ### Browser Extensions
 

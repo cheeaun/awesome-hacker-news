@@ -215,6 +215,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Telegram
 
 - [Hacker News Feed](https://t.me/hacker_news_feed)
+- [HN Voting Ring](https://t.me/hnvote)
 
 ## Resources
 

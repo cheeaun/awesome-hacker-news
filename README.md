@@ -118,6 +118,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
 - [HNRank](https://www.jitbit.com/hacker-news-rank/)
 - [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
+- [Hacker Smacker](https://hackersmacker.org)
 
 ### Desktop (Windows, Mac, Linux)
 

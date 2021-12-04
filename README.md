@@ -126,6 +126,10 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [Hacker News new tab](https://gist.github.com/DavideViolante/04e42628b9e6b4a2f8aec3875e44990c)
 
+### Userstyles
+
+- [Modern Hacker News Userstyle](https://github.com/losuler/hacker-news-userstyle)
+
 ### Desktop (Windows, Mac, Linux)
 
 - [HNClient](https://florian.github.io/HNClient/)

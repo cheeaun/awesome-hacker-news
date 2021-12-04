@@ -116,6 +116,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HN Favourite Users](https://github.com/janhancic/hn-favourite-users)
 - [HN Unread Comments](https://github.com/janhancic/hn-unread-comments)
 - [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
+- [hnlinks](https://github.com/dit7ya/hnlinks)
 - [HNRank](https://www.jitbit.com/hacker-news-rank/)
 - [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
 - [Hacker Smacker](https://hackersmacker.org)

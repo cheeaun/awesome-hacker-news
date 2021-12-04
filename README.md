@@ -78,7 +78,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [AskHN Digest](https://askhndigest.com/)
 - [Hacker News Digest](http://www.hndigest.com/)
-- [Hacker Newsletter](http://www.hackernewsletter.com/)
+- [Hacker Newsletter](https://hackernewsletter.com/)
 - [Hackers Daily](http://www.hackersdaily.com)
 - [HN Mail](https://hnmail.io)
 - [HN Replies](http://www.hnreplies.com/)

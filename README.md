@@ -83,6 +83,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HN Mail](https://hnmail.io)
 - [HN Replies](http://www.hnreplies.com/)
 - [The HN Digest trial](http://hndigest.wordpress.com/)
+- [Efficient democracy - community curated weekly newsletter](https://efficientdemocracy.com)
 
 ### Social Media
 

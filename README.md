@@ -3,28 +3,8 @@ Awesome Hacker News
 
 A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
-- [Apps](#apps)
-	- [Web](#web)
-	- [Mobile Web](#mobile-web)
-	- [RSS/Atom Feeds](#rssatom-feeds)
-	- [Email](#email)
-	- [Social Media](#social-media)
-	- [Browser Extensions](#browser-extensions)
-	- [Mac OS](#mac-os)
-	- [Linux](#linux)
-	- [iOS](#ios)
-	- [Android](#android)
-	- [Windows Phone](#windows-phone)
-	- [BlackBerry](#blackberry)
-	- [Print](#print)
-	- [Audio](#audio)
-	- [Sublime Text plugins](#sublime-text-plugins)
-	- [Emacs](#emacs)
-	- [Command Line](#command-line)
-	- [Alfred workflows](#alfred-workflows)
-	- [Smart watch](#smart-watch)
-- [Resources](#resources)
-- [Contributing](#contributing)
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Apps
 

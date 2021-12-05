@@ -231,6 +231,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups)
 - [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
+- [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 
 ## Contributing
 

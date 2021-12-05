@@ -170,6 +170,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 - [Pumpkin Reader](https://play.google.com/store/apps/details?id=io.pumpkinz.pumpkinreader)
 - [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
+- [Glider for Hacker News](https://github.com/Mosc/Glider)
 
 ### Windows Phone
 

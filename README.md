@@ -18,8 +18,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
   - [Browser Extensions](#browser-extensions)
   - [Userscripts](#userscripts)
   - [Userstyles](#userstyles)
-  - [Desktop (Windows, Mac, Linux)](#desktop-windows-mac-linux)
-  - [Mac OS](#mac-os)
+  - [Desktop (Windows, macOS, Linux)](#desktop-windows-macos-linux)
+  - [macOS](#macos)
   - [Linux](#linux)
   - [iOS](#ios)
   - [Android](#android)
@@ -142,14 +142,15 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 - [Modern Hacker News Userstyle](https://github.com/losuler/hacker-news-userstyle)
 
-### Desktop (Windows, Mac, Linux)
+### Desktop (Windows, macOS, Linux)
 
 - [HNClient](https://florian.github.io/HNClient/)
 
-### Mac OS
+### macOS
 
 - [Darker News for Safari](https://apps.apple.com/us/app/darker-news-for-safari/id1562920743)
 - [Hacker Menu](https://hackermenu.io/)
+- [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 - [HNReader](https://github.com/mattrighetti/HNReaderApp)
 - [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12)
 - [touchHNews](https://github.com/mrmekon/toucHNews)

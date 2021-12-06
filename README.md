@@ -101,7 +101,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 #### Twitter
 
-- [@hHackerNewsTop10](https://twitter.com/HackerNewsTop10)
+- [@HackerNewsTop10](https://twitter.com/HackerNewsTop10)
 - [@hackernewsbot](https://twitter.com/hackernewsbot)
 - [@hnfirehose](https://twitter.com/hnfirehose)
 - [@HNTheaterMonth](https://twitter.com/HNTheaterMonth)

@@ -68,6 +68,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [HNHiringMe](http://hnhiring.me/)
 - [HNPaper](http://hnpaper.forge.partlab.io/)
 - [HNWatcher](https://www.hnwatcher.com/)
+- [Lindy Hacker News Library](https://hn.lindylearn.io/)
 - [React HN](http://insin.github.io/react-hn/)
 - [The Ajax Post](http://theajaxpost.appspot.com/theajaxpost)
 - [The Hacker Classics](http://jsomers.net/hn/)

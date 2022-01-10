@@ -42,6 +42,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
+- [Hacker News Pro](https://hackernews.pro)
 - [Best Hacker News](http://besthackernews.herokuapp.com)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Comments.hn](https://comments.hn)

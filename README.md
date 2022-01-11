@@ -42,7 +42,6 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Web
 
-- [Hacker News Pro](https://hackernews.pro)
 - [Best Hacker News](http://besthackernews.herokuapp.com)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Comments.hn](https://comments.hn)
@@ -51,6 +50,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Confidence](http://hn.elijames.org/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
+- [Hacker News Pro](https://hackernews.pro)
 - [Hacker News Rankings](http://hnrankings.info/)
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews Trends](https://showcase.metamate.io/hackernews-trends)
@@ -91,27 +91,27 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ### Email
 
 - [AskHN Digest](https://askhndigest.com/)
+- [Efficient democracy - community curated weekly newsletter](https://efficientdemocracy.com)
 - [Hacker News Digest](http://www.hndigest.com/)
 - [Hacker Newsletter](https://hackernewsletter.com/)
 - [Hackers Daily](http://www.hackersdaily.com)
 - [HN Mail](https://hnmail.io)
 - [HN Replies](http://www.hnreplies.com/)
 - [The HN Digest trial](http://hndigest.wordpress.com/)
-- [Efficient democracy - community curated weekly newsletter](https://efficientdemocracy.com)
 
 ### Social Media
 
 #### Twitter
 
-- [@HackerNewsTop10](https://twitter.com/HackerNewsTop10)
 - [@hackernewsbot](https://twitter.com/hackernewsbot)
+- [@HackerNewsTop10](https://twitter.com/HackerNewsTop10)
 - [@hnfirehose](https://twitter.com/hnfirehose)
 - [@HNTheaterMonth](https://twitter.com/HNTheaterMonth)
 - [@JustShowHN](https://twitter.com/JustShowHN)
 - [@newsyc100](https://twitter.com/newsyc100)
 - [@newsyc150](https://twitter.com/newsyc150)
-- [@newsyc20](https://twitter.com/newsyc20)
 - [@newsyc200](https://twitter.com/newsyc200)
+- [@newsyc20](https://twitter.com/newsyc20)
 - [@newsyc250](https://twitter.com/newsyc250)
 - [@newsyc50](https://twitter.com/newsyc50)
 - [@newsycombinator](https://twitter.com/newsycombinator)
@@ -129,13 +129,13 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo)
 - [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid)
 - [Hacker News Web App](https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace)
+- [Hacker Smacker](https://hackersmacker.org)
 - [HN Favourite Users](https://github.com/janhancic/hn-favourite-users)
 - [HN Unread Comments](https://github.com/janhancic/hn-unread-comments)
 - [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
 - [hnlinks](https://github.com/dit7ya/hnlinks)
 - [HNRank](https://www.jitbit.com/hacker-news-rank/)
 - [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
-- [Hacker Smacker](https://hackersmacker.org)
 
 ### Userscripts
 
@@ -180,6 +180,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 
 ### Android
 
+- [Glider for Hacker News](https://github.com/Mosc/Glider)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews)
 - [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews)
 - [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
@@ -190,7 +191,6 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 - [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader)
 - [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
-- [Glider for Hacker News](https://github.com/Mosc/Glider)
 
 ### Windows Phone
 
@@ -246,8 +246,8 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 ## Resources
 
 - [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups)
-- [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 - [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
+- [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 
 ## Contributing
 

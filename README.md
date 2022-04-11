@@ -73,6 +73,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [React HN](http://insin.github.io/react-hn/)
 - [The Ajax Post](http://theajaxpost.appspot.com/theajaxpost)
 - [The Hacker Classics](http://jsomers.net/hn/)
+- [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [TopHN](https://tophn.org/)
 - [Wayback HN](http://www.waybackhn.com/)
 

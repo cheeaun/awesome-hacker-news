@@ -76,6 +76,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [TopHN](https://tophn.org/)
 - [Wayback HN](http://www.waybackhn.com/)
+- [whnex](https://whnex.com/)
 
 ### Mobile Web
 

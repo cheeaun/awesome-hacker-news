@@ -1,7 +1,7 @@
 Awesome Hacker News
 ===
 
-A collection of awesome Hacker News apps, libraries, resources and shiny things.
+A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libraries, resources and shiny things.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

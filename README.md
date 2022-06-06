@@ -194,6 +194,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 - [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader)
+- [Trilby for Hacker News](https://play.google.com/store/apps/details?id=com.failab.trilby)
 - [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
 
 ### Windows Phone

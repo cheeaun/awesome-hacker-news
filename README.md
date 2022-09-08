@@ -196,6 +196,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader)
 - [Trilby for Hacker News](https://play.google.com/store/apps/details?id=com.failab.trilby)
 - [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
+- [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews)
 
 ### Windows Phone
 

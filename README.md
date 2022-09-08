@@ -24,7 +24,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
   - [iOS](#ios)
   - [Android](#android)
   - [Windows Phone](#windows-phone)
-  - [BlackBerry](#blackberry)
   - [Print](#print)
   - [Audio](#audio)
   - [Sublime Text plugins](#sublime-text-plugins)
@@ -44,19 +43,16 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [Best Hacker News](http://besthackernews.herokuapp.com)
 - [Clean Hacker News](https://adriel.co.nz/news/)
-- [Comments.hn](https://comments.hn)
 - [Full Hacker News](http://www.fullhn.com/)
 - [Hack Ernews](http://hack.ernews.info/)
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Confidence](http://hn.elijames.org/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
-- [Hacker News Pro](https://hackernews.pro)
 - [Hacker News Rankings](http://hnrankings.info/)
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews Trends](https://showcase.metamate.io/hackernews-trends)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 - [Hackjob.io](https://hackjobio.herokuapp.com/)
-- [Hackrdot](https://www.hackrdot.com)
 - [HCKR news](http://hckrnews.com/)
 - [HN Academy](https://yahnd.com/academy/)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
@@ -68,13 +64,10 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HNHIRING](http://hnhiring.com/)
 - [HNHiringMe](http://hnhiring.me/)
 - [HNPaper](http://hnpaper.forge.partlab.io/)
-- [HNWatcher](https://www.hnwatcher.com/)
 - [Lindy Hacker News Library](https://hn.lindylearn.io/)
 - [React HN](http://insin.github.io/react-hn/)
-- [The Ajax Post](http://theajaxpost.appspot.com/theajaxpost)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
-- [TopHN](https://tophn.org/)
 - [Wayback HN](http://www.waybackhn.com/)
 - [whnex](https://whnex.com/)
 
@@ -93,10 +86,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Email
 
 - [AskHN Digest](https://askhndigest.com/)
-- [Efficient democracy - community curated weekly newsletter](https://efficientdemocracy.com)
 - [Hacker News Digest](http://www.hndigest.com/)
 - [Hacker Newsletter](https://hackernewsletter.com/)
-- [Hackers Daily](http://www.hackersdaily.com)
 - [HN Mail](https://hnmail.io)
 - [HN Replies](http://www.hnreplies.com/)
 - [The HN Digest trial](http://hndigest.wordpress.com/)
@@ -137,7 +128,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
 - [hnlinks](https://github.com/dit7ya/hnlinks)
 - [HNRank](https://www.jitbit.com/hacker-news-rank/)
-- [What HN says](https://chrome.google.com/webstore/detail/what-hn-says/claakfcablnjpapfkgfljfoaphbicdnf)
 
 ### Userscripts
 
@@ -153,11 +143,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### macOS
 
-- [Darker News for Safari](https://apps.apple.com/us/app/darker-news-for-safari/id1562920743)
-- [Hacker Menu](https://hackermenu.io/)
 - [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 - [HNReader](https://github.com/mattrighetti/HNReaderApp)
-- [MackerNews](https://itunes.apple.com/us/app/mackernews-hacker-news-client/id946730699?mt=12)
 - [touchHNews](https://github.com/mrmekon/toucHNews)
 
 ### Linux
@@ -170,10 +157,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 - [Hack Later](http://brushedtype.co/apps/hack-later/)
 - [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
-- [Hacker News (YC)](https://itunes.apple.com/us/app/hacker-news-yc/id713733435)
 - [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110)
 - [Hacker News Client](http://hnclient.weebly.com/)
-- [Hacker News YC Reader](https://itunes.apple.com/us/app/hackernews-yc-reader/id1342300844)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759)
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
 - [iHNews](https://github.com/guidefreitas/iHNews)
@@ -185,12 +170,10 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [Glider for Hacker News](https://github.com/Mosc/Glider)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews)
-- [Hacker News YC Reader](https://play.google.com/store/apps/details?id=com.fynally.hackernews)
 - [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
 - [Hews](https://leavjenn.github.io/Hews/)
 - [HN-Android](https://github.com/manmal/hn-android/)
-- [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews)
 - [Materialistic](https://f-droid.org/de/packages/io.github.hidroh.materialistic/)
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 - [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader)
@@ -200,12 +183,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Windows Phone
 
-- [Hacker News](http://www.windowsphone.com/en-us/store/app/hacker-news/57a88f24-7dce-47cb-b322-33a1a4178533)
 - [Hacky News](http://www.windowsphone.com/en-gb/store/app/hacky-news/5e5a14a9-d08b-45ee-a5c2-b44713868af7)
-
-### BlackBerry
-
-- [Reader YC](http://appworld.blackberry.com/webstore/content/34175888/)
 
 ### Print
 

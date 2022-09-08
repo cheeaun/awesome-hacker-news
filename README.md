@@ -191,7 +191,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hews](https://leavjenn.github.io/Hews/)
 - [HN-Android](https://github.com/manmal/hn-android/)
 - [HNYC](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews)
-- [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)
+- [Materialistic](https://f-droid.org/de/packages/io.github.hidroh.materialistic/)
 - [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 - [Pumpkin Reader](https://github.com/pumpkinz/pumpkin-reader)
 - [Trilby for Hacker News](https://play.google.com/store/apps/details?id=com.failab.trilby)

@@ -128,6 +128,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [hnHiringFilter](https://github.com/janhancic/hnHiringFilter)
 - [hnlinks](https://github.com/dit7ya/hnlinks)
 - [HNRank](https://www.jitbit.com/hacker-news-rank/)
+- [ModernHN](https://www.modernhn.com)
 
 ### Userscripts
 

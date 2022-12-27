@@ -48,6 +48,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Confidence](http://hn.elijames.org/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
+- [Hacker News in Chinese](https://hn.buzzing.cc/)
 - [Hacker News Rankings](http://hnrankings.info/)
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews Trends](https://showcase.metamate.io/hackernews-trends)

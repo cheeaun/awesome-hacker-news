@@ -44,7 +44,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Best Hacker News](http://besthackernews.herokuapp.com)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Full Hacker News](http://www.fullhn.com/)
-- [Hack Ernews](http://hack.ernews.info/)
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Confidence](http://hn.elijames.org/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
@@ -54,7 +53,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 - [HCKR news](http://hckrnews.com/)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
-- [HN Filter](http://hn-filter.appspot.com/)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)
 - [HN Ratio](https://paradite.github.io/hn-ratio/)
 - [HNHIRING](http://hnhiring.com/)
@@ -63,7 +61,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Lindy Hacker News Library](https://hn.lindylearn.io/)
 - [React HN](http://insin.github.io/react-hn/)
 - [The Hacker Classics](http://jsomers.net/hn/)
-- [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [Wayback HN](http://www.waybackhn.com/)
 - [whnex](https://whnex.com/)
 

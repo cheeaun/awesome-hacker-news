@@ -88,6 +88,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HN Mail](https://hnmail.io)
 - [HN Replies](http://www.hnreplies.com/)
 - [The HN Digest trial](http://hndigest.wordpress.com/)
+- [HN Weekly](https://discu.eu/weekly/hackernews/)
 
 ### Social Media
 

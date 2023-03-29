@@ -106,6 +106,10 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [@newsyc50](https://twitter.com/newsyc50)
 - [@newsycombinator](https://twitter.com/newsycombinator)
 
+#### Mastodon
+
+- [@hn_discussions](https://mastodon.social/@hn_discussions)
+
 #### Instagram
 
 - [@hacker._news](https://www.instagram.com/hacker._news)

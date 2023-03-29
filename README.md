@@ -14,6 +14,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
   - [Email](#email)
   - [Social Media](#social-media)
     - [Twitter](#twitter)
+    - [Mastodon](#mastodon)
     - [Instagram](#instagram)
   - [Browser Extensions](#browser-extensions)
   - [Userscripts](#userscripts)

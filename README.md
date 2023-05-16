@@ -170,6 +170,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Octal](https://itunes.apple.com/us/app/id1308885491)
 - [SwiftHN](http://dimillian.github.io/SwiftHN/)
 - [Top Now](https://apps.apple.com/us/app/top-now/id1486916333?ls=1)
+- [HackerNewt for Hacker News](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 
 ### Android
 

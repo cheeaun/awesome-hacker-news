@@ -59,7 +59,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HN Ratio](https://paradite.github.io/hn-ratio/)
 - [HNHIRING](http://hnhiring.com/)
 - [HNHiringMe](http://hnhiring.me/)
-- [HNPaper](http://hnpaper.forge.partlab.io/)
 - [Lindy Hacker News Library](https://hn.lindylearn.io/)
 - [Lotus Reader](https://lotusreader.netlify.app/)
 - [React HN](http://insin.github.io/react-hn/)

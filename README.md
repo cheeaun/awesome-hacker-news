@@ -60,6 +60,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HNHIRING](http://hnhiring.com/)
 - [HNHiringMe](http://hnhiring.me/)
 - [HNPaper](http://hnpaper.forge.partlab.io/)
+- [HNWasm](https://glipitch.github.io/hnwasm/)
 - [Lindy Hacker News Library](https://hn.lindylearn.io/)
 - [Lotus Reader](https://lotusreader.netlify.app/)
 - [React HN](http://insin.github.io/react-hn/)
@@ -74,6 +75,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Mobile](http://hackernewsmobile.com/)
 - [Hacker News Mobile](http://hn.premii.com/)
 - [HackerWeb](http://hackerwebapp.com/)
+- [HNWasm](https://glipitch.github.io/hnwasm/)
 - [Lotus Reader](https://lotusreader.netlify.app/)
 
 ### RSS/Atom Feeds

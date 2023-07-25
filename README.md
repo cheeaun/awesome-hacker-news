@@ -67,6 +67,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [Wayback HN](http://www.waybackhn.com/)
 - [whnex](https://whnex.com/)
+- [alt.hn](https://alt-hn.vercel.app/)
 
 ### Mobile Web
 

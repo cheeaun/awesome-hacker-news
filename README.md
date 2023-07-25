@@ -42,6 +42,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Web
 
+- [alt.hn](https://alt-hn.vercel.app/)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Full Hacker News](http://www.fullhn.com/)
 - [Hack Ernews](http://hack.ernews.info/)
@@ -67,7 +68,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [Wayback HN](http://www.waybackhn.com/)
 - [whnex](https://whnex.com/)
-- [alt.hn](https://alt-hn.vercel.app/)
 
 ### Mobile Web
 

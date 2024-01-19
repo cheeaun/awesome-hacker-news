@@ -45,7 +45,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [alt.hn](https://alt-hn.vercel.app/)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Full Hacker News](http://www.fullhn.com/)
-- [Hack Ernews](http://hack.ernews.info/)
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Confidence](http://hn.elijames.org/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)

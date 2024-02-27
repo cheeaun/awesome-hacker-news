@@ -58,6 +58,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)
 - [HN Ratio](https://paradite.github.io/hn-ratio/)
+- [HN Reader](https://next-hn-reader.vercel.app/)
 - [HNHIRING](http://hnhiring.com/)
 - [HNHiringMe](http://hnhiring.me/)
 - [HNWasm](https://glipitch.github.io/hnwasm/)

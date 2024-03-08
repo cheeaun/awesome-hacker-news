@@ -34,6 +34,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
   - [Smart Watch](#smart-watch)
   - [Telegram](#telegram)
 - [Resources](#resources)
+- [API Wrappers](#api-wrappers)
 - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

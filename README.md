@@ -237,6 +237,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Telegram
 
 - [Hacker News Feed](https://t.me/hacker_news_feed)
+- [Hacker News Top 10](https://t.me/hntop10) - [Source](https://github.com/mfiro/hckrnews-top-10)
 
 ## Resources
 
@@ -244,6 +245,9 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 - [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 - [Hacker News Headlines](https://github.com/bodazhao/hacker-news-headlines)
+
+## API Wrappers
+- [hnconnector](https://github.com/mfiro/hnconnector)
 
 ## Contributing
 

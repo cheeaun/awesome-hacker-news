@@ -16,6 +16,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
     - [Twitter](#twitter)
     - [Mastodon](#mastodon)
     - [Instagram](#instagram)
+    - [Nevix](#nevix)
   - [Browser Extensions](#browser-extensions)
   - [Userscripts](#userscripts)
   - [Userstyles](#userstyles)

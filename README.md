@@ -122,6 +122,10 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [@hacker._news](https://www.instagram.com/hacker._news)
 
+#### Nevix
+
+- [@daily_hackernews](https://nevix.com/u/01hn8bbdcxpyrnk7etq6kgr2tm)
+
 ### Browser Extensions
 
 - [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi)

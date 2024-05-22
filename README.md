@@ -44,6 +44,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Web
 
+- [Hacker News Reader PWA App](https://app.hn-reader.com)
 - [alt.hn](https://alt-hn.vercel.app/)
 - [Brutalist Hacker News](https://brutalisthackernews.com)
 - [Clean Hacker News](https://adriel.co.nz/news/)
@@ -75,6 +76,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Mobile Web
 
+- [Hacker News Reader](https://www.hn-reader.com)
 - [Calmer News](https://calmernews.com)
 - [Hacker News Mobile](http://hackernewsmobile.com/)
 - [Hacker News Mobile](http://hn.premii.com/)

@@ -54,6 +54,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News in Chinese](https://hn.buzzing.cc/)
 - [Hacker News Outliers](https://hn.moritz.pm/)
 - [Hacker News Rankings](http://hnrankings.info/)
+- [Hacker News Reader PWA App](https://app.hn-reader.com)
 - [Hacker News Summary](https://hackernews.betacat.io/)
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
@@ -78,6 +79,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Calmer News](https://calmernews.com)
 - [Hacker News Mobile](http://hackernewsmobile.com/)
 - [Hacker News Mobile](http://hn.premii.com/)
+- [Hacker News Reader](https://www.hn-reader.com)
 - [HackerWeb](http://hackerwebapp.com/)
 - [HNWasm](https://glipitch.github.io/hnwasm/)
 - [Lotus Reader](https://lotusreader.netlify.app/)
@@ -161,12 +163,14 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### macOS
 
 - [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
+- [Hacker News Reader](https://www.hn-reader.com)
 - [HNReader](https://github.com/mattrighetti/HNReaderApp)
 - [touchHNews](https://github.com/mrmekon/toucHNews)
 
 ### Linux
 
 - [HackerTray](https://captnemo.in/hackertray/)
+- [Hacker News Reader](https://www.hn-reader.com)
 
 ### iOS
 
@@ -174,6 +178,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 - [Hack Later](http://brushedtype.co/apps/hack-later/)
 - [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
+- [Hacker News Reader](https://www.hn-reader.com)
 - [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110)
 - [Hacker News Client](http://hnclient.weebly.com/)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759)
@@ -189,6 +194,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Glider for Hacker News](https://github.com/Mosc/Glider)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews)
 - [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
+- [Hacker News Reader](https://www.hn-reader.com)
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
 - [Hews](https://leavjenn.github.io/Hews/)
 - [HN-Android](https://github.com/manmal/hn-android/)

@@ -257,7 +257,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups)
 - [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 - [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
-- [Hacker News Headlines](https://github.com/bodazhao/hacker-news-headlines)
+- [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)
 
 ## API Wrappers
 - [hnconnector](https://github.com/mfiro/hnconnector)

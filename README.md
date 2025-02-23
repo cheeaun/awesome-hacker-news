@@ -59,6 +59,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Summary](https://hackernews.betacat.io/)
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
+- [Hacker News for busy web developers](https://lessnews.dev/)
 - [HCKR news](http://hckrnews.com/)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)

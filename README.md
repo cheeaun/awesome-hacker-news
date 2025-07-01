@@ -45,6 +45,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Web
 
 - [alt.hn](https://alt-hn.vercel.app/)
+- [ASCII Press](https://asciipress.brightmirror.co/)
 - [Brutalist Hacker News](https://brutalisthackernews.com)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Full Hacker News](http://www.fullhn.com/)

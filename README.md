@@ -90,6 +90,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### RSS/Atom Feeds
 
+- [Official RSS Feed](https://news.ycombinator.com/rss)
 - [Hacker News RSS](https://edavis.github.io/hnrss/)
 - [HNapp](http://hnapp.com/)
 - [Hacker News RSS](https://hackernewsrss.com/)

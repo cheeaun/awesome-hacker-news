@@ -75,7 +75,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [React HN](http://insin.github.io/react-hn/)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
-- [Wayback HN](http://www.waybackhn.com/)
 - [whnex](https://whnex.com/)
 
 ### Mobile Web

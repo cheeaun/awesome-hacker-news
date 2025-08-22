@@ -136,13 +136,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Browser Extensions
 
-- [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi)
-- [Hacker News extension](https://chrome.google.com/webstore/detail/geancnifhbkbjijfkcjjdnfemppmcjmk)
 - [Hacker News OnePage](https://chrome.google.com/webstore/detail/plldnnbdlbgbiknjebohmlggcbicghlj)
-- [Hacker News Real-Time](https://github.com/Bekt/hn-realify)
-- [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hackercut/dmiimkldokblocpmleogaeohkbffnobo)
 - [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid)
-- [Hacker News Web App](https://chrome.google.com/webstore/detail/hacker-news/gdljjmpecaafiaedefdogicdipcnmace)
 - [Hacker Smacker](https://hackersmacker.org)
 - [HN Favourite Users](https://github.com/janhancic/hn-favourite-users)
 - [HN Unread Comments](https://github.com/janhancic/hn-unread-comments)
@@ -176,6 +171,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [HackerTray](https://captnemo.in/hackertray/)
 - [Hacker News Reader](https://www.hn-reader.com)
+- [HackUp](https://flathub.org/apps/com.github.mdh34.hackup)
 
 ### iOS
 

@@ -61,6 +61,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News for busy web developers](https://lessnews.dev/)
 - [hcker.news - Story and Best Comments Timeline ](http://hckrnews.com/)
 - [HCKR news](http://hckrnews.com/)
+- [hn30](https://hn30.yamanlabs.com)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
 - [HN Games - Videogames made by the HN community](https://hackernews.games/)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)

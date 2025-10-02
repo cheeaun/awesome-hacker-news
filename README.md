@@ -216,10 +216,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [Hacker Bits](http://hackerbits.com/)
 
-### Audio
-
-- [ReadByHumans](https://readbyhumans.com/)
-
 ### Sublime Text plugins
 
 - [Sublime Hacker News Reader](https://github.com/Dimillian/Sublime-Hacker-News-Reader)

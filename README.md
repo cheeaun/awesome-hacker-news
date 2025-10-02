@@ -27,7 +27,6 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
   - [Android](#android)
   - [Windows Phone](#windows-phone)
   - [Print](#print)
-  - [Audio](#audio)
   - [Sublime Text plugins](#sublime-text-plugins)
   - [Emacs](#emacs)
   - [Command Line](#command-line)

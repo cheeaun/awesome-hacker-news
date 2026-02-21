@@ -74,6 +74,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Lindy Hacker News Library](https://hn.lindylearn.io/)
 - [Lotus Reader](https://lotusreader.netlify.app/)
 - [React HN](http://insin.github.io/react-hn/)
+- [SmackerNews](https://smackernews.com/)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [whnex](https://whnex.com/)

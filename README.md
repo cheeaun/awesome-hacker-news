@@ -77,6 +77,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [SmackerNews](https://smackernews.com/)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
+- [underscore HN](https://underscore-hn.vercel.app/)
 - [whnex](https://whnex.com/)
 
 ### Mobile Web

@@ -180,6 +180,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 - [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1&mt=8)
+- [Gem for Hacker News](https://github.com/Livinglist/Gem)
 - [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 - [Hack Later](http://brushedtype.co/apps/hack-later/)
 - [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)

@@ -50,6 +50,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Full Hacker News](http://www.fullhn.com/)
 - [HackerComments](http://www.hackercomments.ai)
+- [HackYourNews](https://hackyournews.com/) – AI summaries of the top HN stories
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
 - [Hacker News in Chinese](https://hn.buzzing.cc/)
@@ -59,11 +60,11 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 - [Hacker News for busy web developers](https://lessnews.dev/)
-- [hcker.news - Story and Best Comments Timeline ](http://hckrnews.com/)
+- [hcker.news](http://hckrnews.com/) - Story and Best Comments Timeline
 - [HCKR news](http://hckrnews.com/)
 - [hn30](https://hn30.yamanlabs.com)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
-- [HN Games - Videogames made by the HN community](https://hn-games.marcolabarile.me/)
+- [HN Games](https://hn-games.marcolabarile.me/) - Videogames made by the HN community
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)
 - [HN Push](https://www.hnpush.com)
 - [HN Ratio](https://paradite.github.io/hn-ratio/)
@@ -77,6 +78,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [SmackerNews](https://smackernews.com/)
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
+- [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)
 - [underscore HN](https://underscore-hn.vercel.app/)
 - [whnex](https://whnex.com/)
 

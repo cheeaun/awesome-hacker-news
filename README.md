@@ -170,6 +170,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 - [Hacker News Reader](https://www.hn-reader.com)
+- [Haiker](https://haiker.app)
 - [HNReader](https://github.com/mattrighetti/HNReaderApp)
 - [touchHNews](https://github.com/mrmekon/toucHNews)
 
@@ -191,6 +192,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Client](http://hnclient.weebly.com/)
 - [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759)
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
+- [Haiker](https://haiker.app)
 - [iHNews](https://github.com/guidefreitas/iHNews)
 - [Octal](https://itunes.apple.com/us/app/id1308885491)
 - [SwiftHN](http://dimillian.github.io/SwiftHN/)
@@ -204,6 +206,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 - [Hacker News Reader](https://www.hn-reader.com)
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
+- [Haiker](https://haiker.app)
 - [Hews](https://leavjenn.github.io/Hews/)
 - [HN-Android](https://github.com/manmal/hn-android/)
 - [Materialistic](https://f-droid.org/de/packages/io.github.hidroh.materialistic/)

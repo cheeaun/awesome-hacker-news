@@ -245,6 +245,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Haxor-News](https://github.com/donnemartin/haxor-news)
 - [Node HackerNews](https://github.com/headcanon/node-hn)
 - [Pyhn](https://github.com/socketubs/pyhn)
+- [Circumflex](https://github.com/bensadeh/circumflex)
 
 ### Alfred workflows
 

@@ -202,6 +202,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Android
 
 - [Glider for Hacker News](https://github.com/Mosc/Glider)
+- [HackerFlow](https://hackerflow.app)
 - [Hacker News client for Android](https://github.com/bishopmatthew/hackernews)
 - [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 - [Hacker News Reader](https://www.hn-reader.com)

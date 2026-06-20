@@ -33,6 +33,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
   - [Alfred workflows](#alfred-workflows)
   - [Smart Watch](#smart-watch)
   - [Telegram](#telegram)
+  - [Alternatives & Clones](#alternatives--clones)
 - [Resources](#resources)
 - [API Wrappers](#api-wrappers)
 - [Contributing](#contributing)
@@ -260,6 +261,10 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 - [Hacker News Feed](https://t.me/hacker_news_feed)
 - [Hacker News Top 10](https://t.me/hntop10) - [Source](https://github.com/mfiro/hckrnews-top-10)
+
+### Alternatives & Clones
+
+- [intheloop](https://intheloop.wexare.com) - AI and tech-focused link aggregator and discussion community, with karma, voting, referrals, and multilingual support (en/es/pt).
 
 ## Resources
 

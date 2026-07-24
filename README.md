@@ -80,6 +80,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)
 - [underscore HN](https://underscore-hn.vercel.app/)
+- [visual.hcker.news](https://hn.is-ai-good-yet.com) – Hacker News with preview thumbnails, Open Graph metadata, descriptions, and position trends
 - [whnex](https://whnex.com/)
 
 ### Mobile Web

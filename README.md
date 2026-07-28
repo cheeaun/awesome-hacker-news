@@ -57,6 +57,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Rankings](http://hnrankings.info/)
 - [Hacker News Reader PWA App](https://app.hn-reader.com)
 - [Hacker News Summary](https://hackernews.betacat.io/)
+- [Hacker News Times](https://hackernewstimes.com/) – A newspaper-style Hacker News reader with built-in article reader and weekly newsletter
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 - [Hacker News for busy web developers](https://lessnews.dev/)

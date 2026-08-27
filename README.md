@@ -265,6 +265,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 - [Hacker News Groups](https://github.com/antontarasenko/hacker-news-groups)
 - [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 - [Hacker News Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)

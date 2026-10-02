@@ -54,6 +54,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Books](https://hackernewsbooks.com/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
 - [Hacker News in Chinese](https://hn.buzzing.cc/)
+- [HN Top10](https://news.archerlab.dev) – Daily top 10 Hacker News stories translated and summarized in Korean
 - [Hacker News Rankings](http://hnrankings.info/)
 - [Hacker News Reader PWA App](https://app.hn-reader.com)
 - [Hacker News Summary](https://hackernews.betacat.io/)

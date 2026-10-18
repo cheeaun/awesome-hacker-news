@@ -48,6 +48,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Brutalist Hacker News](https://brutalisthackernews.com)
 - [CheckHN](https://checkhn.ad-si.com/)
 - [Clean Hacker News](https://adriel.co.nz/news/)
+- [DMtheFounder](https://dmthefounder.com/) – Early engineering and founding roles posted by founders on HN and X, linked to the original post
 - [Full Hacker News](http://www.fullhn.com/)
 - [HackerComments](http://www.hackercomments.ai)
 - [HackYourNews](https://hackyournews.com/) – AI summaries of the top HN stories

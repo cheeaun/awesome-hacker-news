@@ -157,6 +157,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Drake Rossman's Extension written in Rust WASM](https://drakerossman.com/blog/hackernews-userscript-in-rust-wasm)
 - [Hacker News Tools](https://chromewebstore.google.com/detail/hacker-news-tools/flhbhgflcehfhimejnjadbfpebhhaopi)
 - [Comment Scraper](https://chromewebstore.google.com/detail/gblklncgcjcinpjaaeafmmkjnfkihmfn)
+- [Smart Filter](https://smartfilter.net/hacker-news-filter)
 
 ### Userscripts
 

@@ -49,6 +49,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [CheckHN](https://checkhn.ad-si.com/)
 - [Clean Hacker News](https://adriel.co.nz/news/)
 - [Full Hacker News](http://www.fullhn.com/)
+- [GapCue](https://lydiatools.github.io/gapcue/) – Search public HN discussions and review potential GitHub project matches. ([Source](https://github.com/LydiaTools/gapcue))
 - [Get HN Jobs](https://gethnjobs.com/) – Search and filter HN "Who is hiring?" posts, with daily email alerts
 - [HackerComments](http://www.hackercomments.ai)
 - [HackYourNews](https://hackyournews.com/) – AI summaries of the top HN stories

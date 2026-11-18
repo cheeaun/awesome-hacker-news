@@ -79,6 +79,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Lotus Reader](https://lotusreader.netlify.app/)
 - [React HN](http://insin.github.io/react-hn/)
 - [SmackerNews](https://smackernews.com/)
+- [Sponge Thread Reader](https://sponge.computer/tools/thread-reader) – Opens a Hacker News thread from its link as one page you can copy as Markdown or save as a PDF
 - [The Hacker Classics](http://jsomers.net/hn/)
 - [Timbo's Hacker News Reader](https://www.thnr.net/)
 - [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)

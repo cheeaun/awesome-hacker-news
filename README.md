@@ -145,6 +145,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Browser Extensions
 
+- [Vouch](https://vouch.rodneygainous.com)
+
 - [Hacker News OnePage](https://chrome.google.com/webstore/detail/plldnnbdlbgbiknjebohmlggcbicghlj)
 - [Hacker News UX](https://chrome.google.com/webstore/detail/chngbdmhgakoomomnnhfapkpbalpmhid)
 - [Hacker Smacker](https://hackersmacker.org)

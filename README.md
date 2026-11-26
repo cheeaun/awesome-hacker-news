@@ -67,6 +67,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HCKR news](http://hckrnews.com/)
 - [hn30](https://hn30.yamanlabs.com)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
+- - [HN Digest](https://o-server.main.jp/hacker-news/en/) - Daily digest of the top 30 Hacker News stories with AI-written summaries and analysis. Available in English, Japanese, Chinese and Spanish, with daily rankings and an RSS feed.
 - [HN Games](https://hn-games.marcolabarile.me/) - Videogames made by the HN community
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)
 - [HN Push](https://www.hnpush.com)

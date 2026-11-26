@@ -181,6 +181,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker News Reader](https://www.hn-reader.com)
 - [Haiker](https://haiker.app)
 - [HNReader](https://github.com/mattrighetti/HNReaderApp)
+- [Nautilus](https://apps.apple.com/us/app/nautilus-tech-news-reader/id6787639053)
 - [touchHNews](https://github.com/mrmekon/toucHNews)
 
 ### Linux
@@ -203,6 +204,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
 - [Haiker](https://haiker.app)
 - [iHNews](https://github.com/guidefreitas/iHNews)
+- [Nautilus](https://apps.apple.com/us/app/nautilus-tech-news-reader/id6787639053)
 - [Octal](https://itunes.apple.com/us/app/id1308885491)
 - [SwiftHN](http://dimillian.github.io/SwiftHN/)
 - [Top Now](https://apps.apple.com/us/app/top-now/id1486916333?ls=1)

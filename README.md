@@ -63,6 +63,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [Hacker-News.news](https://www.hacker-news.news)
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity)
 - [Hacker News for busy web developers](https://lessnews.dev/)
+- [HackerPage](https://hackerpage.org) – Papers, hardware, and blogs frequently recommended in HN comments
 - [hcker.news](http://hcker.news/) - Story and Best Comments Timeline
 - [HCKR news](http://hckrnews.com/)
 - [hn30](https://hn30.yamanlabs.com)

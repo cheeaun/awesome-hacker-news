@@ -1,0 +1,14 @@
+{
+  "name": "awesome-hacker-news-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "mdast-util-to-string": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.5",
+    "unified-lint-rule": "^3.0.1",
+    "unist-util-visit": "^5.2.0",
+    "vfile": "^6.0.3",
+    "vfile-reporter": "^8.1.1"
+  }
+}

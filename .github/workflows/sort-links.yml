@@ -1,0 +1,44 @@
+name: Sort Links
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sortLinks:
+    name: Sort Links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: .github/scripts/package-lock.json
+
+      - name: Install markdown parser dependencies
+        working-directory: .github/scripts
+        run: npm ci
+
+      - name: Sort links in README.md
+        run: node .github/scripts/sort-readme.mjs
+
+      - name: Commit sorted README
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sort links alphabetically"
+          git push
